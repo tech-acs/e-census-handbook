@@ -21,7 +21,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/chapter-01/background"
           >
-            Digital Population and Housing Census Handbook
+            Experiences and Lessons from the 2020 Round
           </Link>
         </div>
       </div>

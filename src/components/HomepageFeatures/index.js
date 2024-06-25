@@ -4,35 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Population and housing censuses (PHC)',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        PHC provide countries with fundamental demographic and socio-economic information. This information is key for planning, programming, and monitoring international, regional, and national commitments.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
+    title: 'Census e-handbook',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Census e-handbook has been developed to serve as a reference document for African countries in undertaking digital censuses. 
       </>
     ),
   },
+  {
+    title: 'Lessons learned and good practices',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+       The e-handbook provides a repository of experiences, key lessons learned and good practices in planning and implementation of digital censuses in Africa during the 2020 Round of Population and Housing Censuses.
+      </>
+    ),
+  }
 ];
 
 function Feature({Svg, title, description}) {

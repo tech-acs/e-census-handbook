@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'E-Census Handbook',
-  tagline: 'E-Census Handbook',
+  tagline: 'Digital Population and Housing Census Handbook for Africa Based on Experiences and Lessons from the 2020 Round',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
