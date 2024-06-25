@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'E Census Handbook',
+  tagline: 'E Census Handbook',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -74,11 +74,10 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'handbookSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Handbook',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
