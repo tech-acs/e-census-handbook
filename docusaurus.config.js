@@ -86,8 +86,8 @@ const config = {
             title: 'Handbook',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'E-Census Introduction',
+                to: '/docs/chapter-01/background',
               },
             ],
           },
@@ -111,10 +111,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/tech-acs/e-census-handbook',
