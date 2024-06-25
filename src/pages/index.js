@@ -33,8 +33,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`${siteConfig.title}`}
+      description="Digital Population and Housing Census Handbook for Africa Based on Experiences and Lessons from the 2020 Round"
     >
       <HomepageHeader />
       <main>
