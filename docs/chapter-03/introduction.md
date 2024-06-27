@@ -21,11 +21,3 @@ During the 2020 Round of PHC, most African countries embraced digital cartograph
 <br>
 This chapter points out selected country experiences, lessons learned and recommendations on what should be done during digital cartographic mapping. Areas covered include developing the proposal, pilot testing, publicity and advocacy, actual data collection, production, and verification of maps as well as issues regarding the mapping personnel. 
 <br>
-
-
-## 3.2 Pilot mapping 
-Pilot mapping is conducted to test the preparedness to undertake the main cartographic mapping process. The aim is to test the validity and reliability of methodology, tools, and equipment to be used in the main cartographic mapping process. The findings from the pilot  inform the finalization of tools, instruments, and methodology. The pilot mapping process entails testing the suitability of the tools, logistical arrangements, assessing the workload, providing a basis for NSOs to mobilize resources and plan for an effective implementation of the process to ensure quality data is obtained. 
-
-### 3.2.1	Selected country experiences
-Census implementing agencies conducted comprehensive pilot mapping with varied objectives and implementation designs, below are some highlights of selected country experiences:
-
