@@ -1,1 +1,23 @@
+## 3.3 Publicity and advocacy for cartographic mapping
+
+Publicity and advocacy for cartographic mapping is done to create awareness of the activity and seek support for the main cartographic mapping and census enumeration. During publicity NSOs seek for collaboration, support, involvement, and ownership of the grassroot stakeholders and local leadership. The roles and responsibilities of all the stakeholders are also established.
+
+### 3.3.1	Selected country experiences
+Census implementing agencies (NSOs) undertook publicity and advocacy as an integral part of the cartographic mapping exercise in line with the respective country circumstances. It is noted that community sensitization  meetings are popular means of advocacy. Below are some highlights of selected country experiences:
+
+**How publicity for the cartographic mapping was done.**
+> **Kenya:** the publicity and advocacy for the cartographic and mapping exercise was cascaded and done through the print media, radio, TV, social media and holding physical community mobilization meetings for the local administration who were in turn to hold community level sensitization meetings. Sensitization of the local administrative leadership was done by NSO staff sensitizing the local administrative officers in each county. The sensitization meetings were held, and the administrative officers were taken through the importance of census and the activities involved in the census process, inform how the village elders were to fill the mapping form 1 provided to them in the rural villages.
+>
+> **Sierra Leone:** the Communication and Publicity division within the NSOs led the campaigns to sensitize and educate the public on the need to cooperate and support the mapping teams before the start and during the cartographic mapping process. The key tools used included Community sensitization meetings, radio discussions in both local and national languages, use of megaphones, providing local guards by the communities as part of the process to lead field staff for hard-to-reach areas and ensuring all communities are reached.
+>
+> **Namibia:** A Communication Plan focusing on advocacy and publicity of the mapping was developed. The most convenient method used was the distribution of flyers and displaying of posters to create awareness. Engaged community leaders through meetings and had the opportunity to elaborate on the objectives of
+the census mapping. Mobilization was done in each selected EA before commencement of data collection exercises to ensure that local people were aware of the project and what was expected of them. Courtesy visits to constituency and local councilors were also undertaken to introduce the exercise and request them to inform their constituency inhabitants about the exercise during their respective radio announcements and community meetings. In addition, FM Radio announcements, local newspapers, television, and specific talk shows among others to announce the commencement of fieldwork.
+
+### 3.3.2	Lessons Learnt
+1.	Due to lack of clear understanding of mapping concepts in Kenya, there was a variance in number of villages provided and the actual number of EAs during the sensitization exercise. There is need to provide clear guidelines on the definition of the villages during the sensitization meetings as well as for the mappers.  
+2.	Additionally, illiteracy of village elders made training and signing of documents difficult and time-consuming during sensitization meetings in Kenya.  
+
+### 3.3.3	Recommendations
+1.	Have a clear selection criterion of who should be part of the sensitization meetings, usually the most influential persons in the community are ideal and use trainers/facilitators who are conversant with the local language of the community so that they can translate the message and not use English to avoid any information loss.
+2.	There is a need to provide timely communication for sensitization meetings to reduce on absenteeism of community leaders due to poor cellphone network and short notices. 
 
