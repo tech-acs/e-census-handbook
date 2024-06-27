@@ -1,0 +1,21 @@
+# PES Independence and Other Assumptions
+
+<p>The PES should be conducted independently from the census as there is an assumption made that a person is no more or less likely to respond to the PES given whether they responded to the census or not. This assumption will always be violated to some extent because a person who does not want to be counted is unlikely to respond to either the census to the PES. However, steps should be taken to ensure that independence is maintained as far as possible, and that when the independence assumption is broken, this is understood and accounted for in the subsequent analysis.
+Once the census and PES data have been collected, they are matched together (see  matching) so that every person in the PES and Census data (in the PES EAs sample) can be classified as either matched, incorrectly enumerated, or unmatched. Then dual system estimation (see analysis) is used to calculate census coverage estimates.
+For dual system estimation to work we make several assumptions. These are given below with examples of how they can be approached in practice.</p>
+
+-**The census and PES are independent**
+
+  - The EAs selected for the PES should not be shared with census enumerators so that during census enumeration all EAs are treated the same.
+  - PES enumerators should be different from census enumerators – or if this is not possible, enumerators should not work in the same EAs for both census and PES.
+  - PES enumerators should not be given any information collected during census enumeration.
+  - PES household listing should be carried out independently from census household listing.
+    
+-**The population is closed i.e., persons who move into or are born into a PES area after census reference night are not included in the PES or matched count.**
+  - The PES should be conducted as soon as possible after the completion of the census enumeration, this minimises the number of people moving in and out of the PES EAs in-between census and PES. A shorter time between census and PES also helps PES respondents recall who was present in the household on census night.
+  - During the PES enumeration, respondents should be asked who was a usual resident in the household on Census night.
+    
+-**The matching between census and PES person records is perfect**
+  - A combination of  automatic matching and clerical matching techniques should be used to match the PES and census records with a high level of accuracy.
+  - To aid automatic matching it is important that census and PES questionnaires are harmonised so that exactly the same information is collected for purposes of matching (names, date of birth, telephone number, sex, relationship to head-or-household). Note that harmonising the questionnaires does not violate the independence assumption.
+  - Census and PES enumerators should be trained on the importance of collecting information used for matching in a specified format e.g., put JUNIOR at the end of the name of the son if father and son have the same name; write UNKNOWN in the case of a name not being known.  Consistency in the data collection increases the automatic matchrate, leaving less work for clerical matchers.
