@@ -4,7 +4,7 @@
    	For example, assign a unique identifier to each household and make sure that each person within a household is also labelled with that identifier. This applies to both census and PES data.
 
 2. If there is no address system that can be used to identify buildings, then stickers can be used to label building enumerated during census, and the information written on the sticker can be collected during PES enumeration. If householders agree then labelling building with a permanent marker pen is also effective. Hence the same building in census and PES can be easily matched together prior to matching the people within the buildings and this will improve the automatic matchrate and the accuracy of the matching. (See case study from Rwanda). However, this method only works if:
-  a.	the stickers/marker pens are good quality and remain in place in-between census and PES enumeration
+  a.	the stickers marker pens are good quality and remain in place in-between census and PES enumeration
   b.	both census and PES enumerators are trained well so that they understand the importance of the census enumerator writing the unique household ID clearly on the sticker and sticking it in a place where is it easy to find and read, and the PES enumerator understands the importance of correctly transcribing the unique household ID from the sticker.
 There have been examples of countries that used chalk to mark households enumerated during the census, but these markings washed off in heavy rain so that they couldn’t be read during PES enumeration. 
 In other countries stickers proved to be useless a lot of the time because the writing was not clearly readable, or the stickers had fallen off or been removed by householders.   
@@ -16,7 +16,7 @@ In other countries stickers proved to be useless a lot of the time because the w
     	 In cases where enumerators have not been given clear instructions, they have sometimes used a 1 causing a big spike of birthdays on 1st January.
     	 It is not possible to distinguish between people who genuinely have a birthday on 1st January and people who do not know their date of birth, which makes matching harder.
     	  The same applies for missing names – give enumerators clear instructions what they should enter e.g., UNKNOWN.
-    	 These values can then easily be found in the data and replaced with a code for missing. Otherwise, time will have to be spent finding all the different ways that enumerators have used to record an unknown value.</p>
+    	 These values can then easily be found in the data and replaced with a code for missing. Otherwise, time will have to be spent finding all the different ways that enumerators have used to record an unknown value.
 
 5. Although the census and PES should be independent, it is important that the teams running the census and the PES do interact with each other.
      The census team must understand the purpose of the PES and how the data the census team collect will be used for the purposes of matching.
