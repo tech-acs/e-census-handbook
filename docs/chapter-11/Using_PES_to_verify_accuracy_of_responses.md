@@ -1,4 +1,4 @@
-# Using PES to verify accuracy of responses
+# Using PES to verify the accuracy of census responses
 
 <p>The PES questionnaire should be kept as simple as possible to reduce the respondent burden and keep the PES enumeration period short.
   Most of the questions asked on the PES questionnaire are to enable matching of the PES respondents to the census respondents. 
