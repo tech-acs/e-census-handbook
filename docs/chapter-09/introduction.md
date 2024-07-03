@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Introduction
 In the recent past there has been an increased use of technology in both census and survey undertakings across Africa. During the 2020 PHC Round, several countries embraced the use of technology in the census business process. 
 
