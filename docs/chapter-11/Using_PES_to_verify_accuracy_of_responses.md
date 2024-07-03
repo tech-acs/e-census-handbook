@@ -7,5 +7,4 @@ The PES questionnaire should be kept as simple as possible to reduce the respond
 
   Once the PES and census data has been matched, the responses for the selected questions can be compared to see if the same response was given during both census and PES enumeration. 
     
-    This will indicate how well the questions were understood and how accurately they were answered.
-    A large difference in answers may indicate that the questions were not well understood – either by the enumerators or the respondents – and that similar questions need to be rewritten and tested prior to any further surveys or census.
+This will indicate how well the questions were understood and how accurately they were answered. mA large difference in answers may indicate that the questions were not well understood either by the enumerators or the respondents – and that similar questions need to be rewritten and tested prior to any further surveys or census.
