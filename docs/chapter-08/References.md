@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+---
+
+
 # References
 1	https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/stic-publicity-final.pdf
 2	https://www12.statcan.gc.ca/census-recensement/2021/ref/prodserv/overview-apercu-eng.cfm 
