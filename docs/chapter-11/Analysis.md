@@ -10,4 +10,4 @@ Different weights are applied for different demographic groups such as age, sex,
 See [Trout, Catfish and Roach: The Beginner's Guide to Census Population Estimates](https://docslib.org/doc/2577669/trout-catfish-and-roach-the-beginner-s-guide-to-census-population-estimates) for a simple explanation of dual system estimation.
 
 Python or R code or more traditional SPSS methods can be used to carry out the analysis to obtain coverage estimates at the desired level of geography, usually aggregated by sex and age-bands.
-Data science techniques such as boot-strapping can be used to create confidence intervals around the estimates.</p>
+Data science techniques such as boot-strapping can be used to create confidence intervals around the estimates.
