@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+
 # 4.0 Introduction 
 
 A pilot census is a major activity conducted during the pre-enumeration phase to comprehensively test all the aspects of census preparedness ranging from administrative, logistical, technical, and technological   infrastructure. It also tests the interface between enumeration, processing, analysis, and dissemination systems to resolve any outstanding problems. In a digital census, various tests are conducted before and after the pilot census. It is important for countries to prioritize undertaking of adequate tests of the various aspects of a census plan. The initial tests carried out during census preparations include testing of tools and instruments often referred to as census pretest and these can be several and on a small scale for different purposes.  For instance, a good questionnaire test should first evaluate the performance of a questionnaire before changes are made; then make any changes to improve its performance; and finally, evaluate the questionnaire after changes are made to find out if its performance has improved.   
