@@ -3,9 +3,10 @@ sidebar_position: 1
 ---
 
 # Introduction
-Cartographic mapping is a major activity conducted during the pre-enumeration phase to create Enumeration Area (EA) maps. Such maps are used for the allocation of work during census enumeration as well as for dissemination of geospatial referenced census data. Therefore, the quality of maps used in the census has a major influence on the quality and reliability of census data collected. The mapping process involves the following activities: proposal development, mobilization of resources, development of tools, acquisition of equipment, publicity, piloting, recruitment, training, data collection, map production and EA map verification. 
+Cartographic mapping is a major activity conducted during the pre-enumeration phase to create Enumeration Area (EA) maps. Such maps are used for the allocation of work during census enumeration as well as for dissemination of geospatial referenced census data. Therefore, the quality of maps used in the census has a major influence on the quality and reliability of census data collected. The mapping process involves the following activities: proposal development, mobilization of resources, development of tools, acquisition of equipment, publicity, piloting, recruitment, training, data collection, map production and EA map verification.
 
 **Cartographic mapping during the non-digital vs digital era**
+
 Digital cartographic mapping involves the use of mobile technology for:
 - collecting spatial data (GPS coordinates for structures, households, features such as schools, hospitals, churches, etc.) from the field to be used in delineation of EAs; 
 - map production which includes overlaying of spatial data collected in the field on satellite imageries/aerial photos, digitization of EA boundaries, preparation of EA maps; 
@@ -15,7 +16,7 @@ Digital cartographic mapping has a wide range of benefits including better quali
 
 In the non-digital era, all the above activities were manually done on paper and were prone to human error and produced bulky papers for field teams to carry around.
 
-<strong>Considerations for digital cartographic mapping</strong>
+**Considerations for digital cartographic mapping**
 
 To successfully, undertake digital cartographic mapping, NSOs are expected to have adequate GIS infrastructure in place. This includes a well-equipped GIS lab, a server with adequate space, up to date software, internet services and well-trained human resources as detailed in the manual on Geospatial Infrastructure in Support of Census Activities. 
 
