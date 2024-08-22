@@ -6,7 +6,7 @@ One of the assumptions of dual-system estimation is that the matching of the cen
 ## Automatic Matching
 
 With electronic census and PES data, automatic matching techniques can be used to carry out most of the matching.  A deterministic or rule-based approach to matching has been found to work well.  
-With this approach, a series of matchkeys is developed where each matchkey is a set of conditions that a record pair must satisfy in order for that pair to be declared a match. INSERT LINK (see case study: Rwanda for an example of matchkeys). 
+With this approach, a series of matchkeys is developed where each matchkey is a set of conditions that a record pair must satisfy in order for that pair to be declared a match. INSERT LINK (see [case study: Rwanda](Selected_Country_Experiences_PES.md)) for an example of matchkeys). 
 Automatic *fuzzy matching* techniques such as using Levenshtein Edit Distance, Jarrow-Winkler score or Soundex phonetic coding, can be used to account for errors in the data, in particular with regards to errors in names.
 An ’age-tolerance’ function can also be used to account for small differences in year of birth. See [Data-Linkage/pes_match](https://github.com/Data-Linkage/pes_match/tree/main) for a set of functions for cleaning and matching census data with Post Enumeration Survey data written in python.
 Automatic probabilistic matching algorithms can also be used for example the UK Ministry of Justice [Splink](https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/splink-mojs-open-source-library-for-probabilistic-record-linkage-at-scale)
