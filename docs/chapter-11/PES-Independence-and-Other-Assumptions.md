@@ -1,15 +1,15 @@
 # PES Independence and Other Assumptions
 
-<p>The PES should be conducted independently from the census as there is an assumption made that a person is no more or less likely to respond to the PES given whether they responded to the census or not. This assumption will always be violated to some extent because a person who does not want to be counted is unlikely to respond to either the census to the PES. However, steps should be taken to ensure that independence is maintained as far as possible, and that when the independence assumption is broken, this is understood and accounted for in the subsequent analysis.
-Once the census and PES data have been collected, they are matched together see [Matching](../chapter-10) so that every person in the PES and Census data (in the PES EAs sample) can be classified as either matched, incorrectly enumerated, or unmatched. Then dual system estimation (see analysis) is used to calculate census coverage estimates.
-For dual system estimation to work we make several assumptions. These are given below with examples of how they can be approached in practice.</p>
+The PES should be conducted independently from the census as there is an assumption made that a person is no more or less likely to respond to the PES given whether they responded to the census or not. This assumption will always be violated to some extent because a person who does not want to be counted is unlikely to respond to either the census to the PES. However, steps should be taken to ensure that independence is maintained as far as possible, and that when the independence assumption is broken, this is understood and accounted for in the subsequent analysis.
+Once the census and PES data have been collected, they are matched together (see [Matching](Matching.md)) so that every person in the PES and Census data (in the PES EAs sample) can be classified as either matched, incorrectly enumerated, or unmatched. Then dual system estimation (see analysis) is used to calculate census coverage estimates.
+For dual system estimation to work we make several assumptions. These are given below with examples of how they can be approached in practice.
 
 -**The census and PES are independent**
 
   - The EAs selected for the PES should not be shared with census enumerators so that during census enumeration all EAs are treated the same.
   - PES enumerators should be different from census enumerators – or if this is not possible, enumerators should not work in the same EAs for both census and PES.
   - PES enumerators should not be given any information collected during census enumeration.
-  - PES household listing should be carried out independently from census household listing.
+  - PES household listing should be carried out independently from census household listing. 
     
 -**The population is closed i.e., persons who move into or are born into a PES area after census reference night are not included in the PES or matched count.**
   - The PES should be conducted as soon as possible after the completion of the census enumeration, this minimises the number of people moving in and out of the PES EAs in-between census and PES. A shorter time between census and PES also helps PES respondents recall who was present in the household on census night.
