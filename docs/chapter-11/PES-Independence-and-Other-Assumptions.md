@@ -1,7 +1,7 @@
 # PES Independence and Other Assumptions
 
 The PES should be conducted independently from the census as there is an assumption made that a person is no more or less likely to respond to the PES given whether they responded to the census or not. This assumption will always be violated to some extent because a person who does not want to be counted is unlikely to respond to either the census to the PES. However, steps should be taken to ensure that independence is maintained as far as possible, and that when the independence assumption is broken, this is understood and accounted for in the subsequent analysis.
-Once the census and PES data have been collected, they are matched together (see [Matching](Matching.md)) so that every person in the PES and Census data (in the PES EAs sample) can be classified as either matched, incorrectly enumerated, or unmatched. Then dual system estimation (see analysis) is used to calculate census coverage estimates.
+Once the census and PES data have been collected, they are matched together (see [Matching](https://tech-acs.github.io/e-census-handbook/docs/chapter-11/Matching)) so that every person in the PES and Census data (in the PES EAs sample) can be classified as either matched, incorrectly enumerated, or unmatched. Then dual system estimation (see analysis) is used to calculate census coverage estimates.
 For dual system estimation to work we make several assumptions. These are given below with examples of how they can be approached in practice.
 
 -**The census and PES are independent**
