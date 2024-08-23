@@ -1,6 +1,6 @@
 # PES Enumeration
 
-Nearly all the stages of census enumeration will also apply to PES enumeration see [Enumeration](https://github.com/tech-acs/e-census-handbook/tree/af8585b990dbe833f7dfb944cb7f4042cffd38e6/docs/chapter-10). 
+Nearly all the stages of census enumeration will also apply to PES enumeration see [Enumeration](/docs/chapter-10). 
 
 A short questionnaire, harmonized where appropriate with the census questionnaire should be designed. See link to example PES questionnaire if eg Rwanda will allow us to share.
   
