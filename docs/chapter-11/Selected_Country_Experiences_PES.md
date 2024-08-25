@@ -23,7 +23,7 @@
 | 9        | First Name + ((Last Name 1 Cen = Last Name 2 PES) or (Last Name 2 Cen = Last Name 1 PES)) + <br>Age + Sex + Household         |
 | 10       | StdLev(First Name)>0.79 + RLSoundex(Last Name) + Age_Difference + Sex + <br>Relationship to Head of Household + Household (see note 4)|
 
-**Notes**<Br>
+**Notes**
 1. The standardised Levenshtein Edit Distance that measures the number of insertions, deletions or substitutions required to transform one name into another calculated as a proportion of the length of the longest name.
 2. The age difference function that allows different tolerance in ages depending on the age. 
 3. Alphanames is a derived variable that puts all characters of the names into alphabetical order 
