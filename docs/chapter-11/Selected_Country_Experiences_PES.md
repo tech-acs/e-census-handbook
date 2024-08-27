@@ -1,7 +1,8 @@
 # Selected Country Experiences
 
 **Rwanda**
-<p>In Rwanda, the post-enumeration survey (PES) was carried out one month after the census enumeration. A sample of 180 enumeration areas (EAs) were selected for the PES stratified by district, sector and urban/rural. Each district had 6 EAs included in the sample. This corresponds to a sampling fraction of 0.74%. A short questionnaire was developed with two sections, one about demographic characteristics of household members and another about household members’ addresses (non-movers, out-movers and in-movers) with reference to Census night.</p>
+
+<p> In Rwanda, the post-enumeration survey (PES) was carried out one month after the census enumeration. A sample of 180 enumeration areas (EAs) were selected for the PES stratified by district, sector and urban/rural. Each district had 6 EAs included in the sample. This corresponds to a sampling fraction of 0.74%. A short questionnaire was developed with two sections, one about demographic characteristics of household members and another about household members’ addresses (non-movers, out-movers and in-movers) with reference to Census night.</p>
 
 <p>Similar to the census enumeration, the PES enumeration was carried out using a CAPI application, and field monitoring was enabled using a dashboard. To maintain independence, a new enumeration team of 210 people were recruited and trained for the PES. Each district also had a Team Leader who was responsible for ensuring completeness and high-quality data collection. The daily monitoring of fieldwork was performed by a team of 10 monitors based at NISR premised supported by the real-time dashboard.</p>
 
@@ -34,8 +35,7 @@
 
 <p>Once all the PES records were available, the final matching strategy was run and over 90% of the PES records were matched automatically. Clerical matching was used to find more matches where the amount of error in the data meant that these matches could not be made automatically. Field visits and telephone calls were done during reconciliation to find additional matching records and understand reasons behind the unmatched data.</p>
 
-<p>Well planned and effectively delivered intensive training for the enumerators, in addition to the technology employed during data collection of the Rwanda Population and Housing Census 2022 [RPHC2022](https://www.statistics.gov.rw/datasource/fifth-population-and-housing-census-2022) laid the foundation for PES's success. Additionally, digital data collection using CAPI, real time field work monitoring and automatic matching reduced the time required for matching from 6 months in 2012 to less than a month in 2022.</p>
+<p> Well planned and effectively delivered intensive training for the enumerators, in addition to the technology employed during data collection of the Rwanda Population and Housing Census 2022 [RPHC2022](https://www.statistics.gov.rw/datasource/fifth-population-and-housing-census-2022) laid the foundation for PES's success. Additionally, digital data collection using CAPI, real time field work monitoring and automatic matching reduced the time required for matching from 6 months in 2012 to less than a month in 2022.</p>
 
 <p>Following completion of the matching, the matched and unmatched records were analysed to estimate the true population size of Rwanda and coverage rates using a statistical technique called dual system estimation. Furthermore, analysis of the matched records helped to estimate content errors of the census records.
-Further details on the methodology used and the PES findings are available in the [Thematic Report: Post Enumeration Survey](https://www.statistics.gov.rw/publication/thematic-report-post-enumeration-survey) which has been published on the NISR website. 
-</p>
+Further details on the methodology used and the PES findings are available in the [Thematic Report: Post Enumeration Survey (https://www.statistics.gov.rw/publication/thematic-report-post-enumeration-survey) which has been published on the NISR website. </p>
