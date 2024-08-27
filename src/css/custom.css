@@ -41,11 +41,11 @@
   --ifm-color-primary-lighter: #3292d1;
   --ifm-color-primary-lightest: #4da0d7;
 
-  --ifm-menu-color-background: #000000;
+  --ifm-menu-color-background: #297fb8;
   --ifm-menu-color-active: #FFFFFF;
   --ifm-menu-color-background-active: #FFFFFF;
   --ifm-menu-link-sublist-color-active: #000000;
-  --ifm-menu-color: #a9a9a9;
+  --ifm-menu-color: #e8e8e8;
 
   --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgba(255,255,255,0.5)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
 
@@ -61,11 +61,11 @@
   --ifm-color-primary-lighter: #3292d1;
   --ifm-color-primary-lightest: #4da0d7;
 
-  --ifm-menu-color-background: #fcfcfc;
+  --ifm-menu-color-background: #297fb8;
   --ifm-menu-color-active: #000000;
   --ifm-menu-color-background-active: #000000;
   --ifm-menu-link-sublist-color-active: #ffffff;
-  --ifm-menu-color: #545454;
+  --ifm-menu-color: #e5e5e5;
 
   --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgba(255,255,255,0.5)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
 }
