@@ -10,3 +10,11 @@
   height: 180px;
   width: 260px;
 }
+
+.logoSubtitle {
+  text-align: center;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+}
