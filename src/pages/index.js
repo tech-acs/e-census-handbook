@@ -2,6 +2,7 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
+import ImageGallery from "@site/src/components/ImageGallery";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
 import Heading from "@theme/Heading";
@@ -38,6 +39,7 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
+        <ImageGallery />
         <HomepageFeatures />
       </main>
     </Layout>
