@@ -3,6 +3,7 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  background: lightskyblue;
 }
 
 
@@ -17,4 +18,5 @@
   align-items: center;
   justify-content: center;
   font-size: 1.5em;
+  color: #000000;
 }
