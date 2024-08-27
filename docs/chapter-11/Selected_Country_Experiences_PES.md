@@ -10,18 +10,19 @@
 <p>A computer-based algorithm was developed in Python programming language to perform the matching process. The algorithm made use of deterministic matchkeys which find matches between census and PES records allowing for errors in some of the data. For example, misspelling of names, slightly different ages. See the table below for an example of our matchkeys.</p>
   
 **Within household matchkeys developed for matching census to PES records following the Rwanda census**
-| Matchkey | Description                                                                                                                   |
-|----------|-------------------------------------------------------------------------------------------------------------------------------|
-| 1        |     First Name + Last Name + Year + Sex + Household                                                                           |
-| 2        | StdLEV(First Name)>0.79 + StdLEV(Last Name) >0.79 + Year + Month + Household   (see note 1)                                   |
-| 3        |     First Name + Last Name + Age_Difference + Sex   +Household     (see note 2)                                               |
-| 4        |     First Name + Last Name + Relationship to Head of Household   + Household                                                  |
-| 5        |     StdLEV(First Name)>0.79 + StdLEV(Last Name) >0.79 +   Sex + Household                                                     |
-| 6        |     Alphanames + Year + Sex +Household        (see note 3)                                                                    |
-| 7        | StdLEV(Alphanames)>0.79 + Sex + Year + Household                                                                              |
-| 8        |     First Name + StdLEV(Last Name)>0.69 + Sex + Age +   Household                                                             |
-| 9        | First Name + ((Last Name 1 Cen = Last Name 2 PES) or (Last Name 2 Cen = Last Name 1 PES)) + <br>Age + Sex + Household         |
-| 10       | StdLev(First Name)>0.79 + RLSoundex(Last Name) + Age_Difference + Sex + <br>Relationship to Head of Household + Household (see note 4)|
+| Matchkey | Description                                                                                                                                                        |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | First Name + Last Name + Year + Sex + Household                                                                                                                    |
+| 2        | StdLEV(First Name)>0.79 + StdLEV(Last Name) >0.79 + Year + Month + Household (see note 1)                                                                          |
+| 3        | First Name + Last Name + Age_Difference + Sex + Household (see note 2)                                                                                             |
+| 4        | First Name + Last Name + Relationship to Head of Household + Household                                                                                            |
+| 5        | StdLEV(First Name)>0.79 + StdLEV(Last Name) >0.79 + Sex + Household                                                                                                |
+| 6        | Alphanames + Year + Sex + Household (see note 3)                                                                                                                   |
+| 7        | StdLEV(Alphanames)>0.79 + Sex + Year + Household                                                                                                                   |
+| 8        | First Name + StdLEV(Last Name)>0.69 + Sex + Age + Household                                                                                                        |
+| 9        | First Name + ((Last Name 1 Cen = Last Name 2 PES) or (Last Name 2 Cen = Last Name 1 PES)) + Age + Sex + Household                                                 |
+| 10       | StdLev(First Name)>0.79 + RLSoundex(Last Name) + Age_Difference + Sex + Relationship to Head of Household + Household (see note 4)                                 |
+
 
 **Notes**
 1. The standardised Levenshtein Edit Distance that measures the number of insertions, deletions or substitutions required to transform one name into another calculated as a proportion of the length of the longest name.
