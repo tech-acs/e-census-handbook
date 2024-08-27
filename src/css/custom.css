@@ -5,6 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
+/*
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -16,8 +17,9 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
-
+/*
 /* For readability concerns, you should choose a lighter palette in dark mode. */
+/*
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -28,3 +30,184 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+*/
+/* Light Theme */
+:root {
+  --ifm-color-primary: #297fb8;
+  --ifm-color-primary-dark: #2572a6;
+  --ifm-color-primary-darker: #236c9c;
+  --ifm-color-primary-darkest: #1d5981;
+  --ifm-color-primary-light: #2d8cca;
+  --ifm-color-primary-lighter: #3292d1;
+  --ifm-color-primary-lightest: #4da0d7;
+
+  --ifm-menu-color-background: #000000;
+  --ifm-menu-color-active: #FFFFFF;
+  --ifm-menu-color-background-active: #FFFFFF;
+  --ifm-menu-link-sublist-color-active: #000000;
+
+  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgba(255,255,255,0.5)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
+
+}
+
+/* Dark Theme */
+[data-theme='dark'] {
+  --ifm-color-primary: #297fb8;
+  --ifm-color-primary-dark: #2572a6;
+  --ifm-color-primary-darker: #236c9c;
+  --ifm-color-primary-darkest: #1d5981;
+  --ifm-color-primary-light: #2d8cca;
+  --ifm-color-primary-lighter: #3292d1;
+  --ifm-color-primary-lightest: #4da0d7;
+
+  --ifm-menu-color-background: #FFFFFF;
+  --ifm-menu-color-active: #000000;
+  --ifm-menu-color-background-active: #000000;
+  --ifm-menu-link-sublist-color-active: #ffffff;
+
+  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgba(255,255,255,0.5)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.menu {
+  font-weight: var(--ifm-font-weight-semibold);
+  overflow-x: hidden;
+}
+
+.menu__list {
+    background: var(--ifm-menu-color-background);
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+  }
+
+/* Non-top level menus */
+
+.menu__list .menu__list {
+      flex: 0 0 100%;
+      margin-top: 0.25rem;
+      padding-left: 0;
+    }
+
+.menu__list-item:not(:first-child) {
+      margin-top: 0.25rem;
+    }
+
+.menu__list-item--collapsed .menu__list {
+        height: 0;
+        overflow: hidden;
+      }
+
+.menu__list-item--collapsed .menu__link--sublist:after,
+      .menu__list-item--collapsed .menu__caret:before {
+        transform: rotateZ(90deg);
+      }
+
+.menu__list-item-collapsible {
+      flex-wrap: wrap;
+      position: relative;
+      border-radius: 0.25rem;
+      display: flex;
+      transition: background var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+    }
+
+.menu__list-item-collapsible:hover {
+    background: var(--ifm-menu-color-background-hover);
+  }
+
+.menu__list-item-collapsible--active {
+        background: var(--ifm-menu-color-background-hover);
+      }
+
+.menu__list-item-collapsible .menu__link:hover,
+        .menu__list-item-collapsible .menu__link--active {
+          background: none !important;
+        }
+
+.menu__link,
+  .menu__caret {
+    align-items: center;
+    border-radius: 0.25rem;
+    display: flex;
+    transition: background var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+  }
+
+.menu__link:hover, .menu__caret:hover {
+    background: var(--ifm-menu-color-background-hover);
+  }
+
+.menu__link {
+    color: var(--ifm-menu-color);
+    flex: 1;
+    line-height: 1.25;
+    padding: var(--ifm-menu-link-padding-vertical)
+      var(--ifm-menu-link-padding-horizontal);
+  }
+
+.menu__link:hover {
+      text-decoration: none;
+      color: var(--ifm-menu-color);
+      transition: color var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+    }
+
+.menu__link--sublist-caret:after {
+      content: '';
+      margin-left: auto;
+      min-width: 1.25rem;
+      background: var(--ifm-menu-link-sublist-icon) 50% / 2rem 2rem;
+      filter: var(--ifm-menu-link-sublist-icon-filter);
+      height: 1.25rem;
+      transform: rotate(180deg);
+      width: 1.25rem;
+      transition: transform var(--ifm-transition-fast) linear;
+    }
+
+.menu__link--active {
+      color: var(--ifm-menu-color-active);
+    }
+
+.menu__link--active:hover {
+        color: var(--ifm-menu-color-active);
+      }
+
+.menu__link--active:not(.menu__link--sublist) {
+        background-color: var(--ifm-menu-color-background-active);
+        color: var(--ifm-menu-link-sublist-color-active);
+        border-radius: 0.0rem;
+      }
+
+
+.menu__caret {
+    padding: var(--ifm-menu-link-padding-vertical)
+      var(--ifm-menu-link-padding-horizontal);
+  }
+
+.menu__caret:before {
+      content: '';
+      background: var(--ifm-menu-link-sublist-icon) 50% / 2rem 2rem;
+      filter: var(--ifm-menu-link-sublist-icon-filter);
+      height: 1.25rem;
+      transform: rotate(180deg);
+      width: 1.25rem;
+      transition: transform var(--ifm-transition-fast) linear;
+    }
+
+/* Consistent spacing between content paragraphs. */
+
+.markdown > pre,
+  .markdown > ul,
+  .markdown > p {
+    margin-bottom: var(--ifm-leading);
+    justify-content: space-between; /* Justify the text */
+    text-align: justify; /* Justify the text */
+  }
