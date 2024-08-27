@@ -6,7 +6,7 @@ import Heading from "@theme/Heading";
 const LogoList = [
   { url: require('@site/static/img/uneca.png').default, alt: 'UN ECA' },
   { url: require('@site/static/img/unfpa.png').default, alt: 'UN FPA' },
-  { url: require('@site/static/img/office-for-national-statistics.png').default, alt: 'UN FPA' },
+  { url: require('@site/static/img/ons.png').default, alt: 'UN FPA' },
 ];
 
 function Logo({url, alt}) {
