@@ -17,3 +17,7 @@ The PES concentrates on persons and households only, so make sure that EAs selec
   
  <p> Once the PES and census data has been matched, the responses for the selected questions can be compared to see if the same response was given during both census and PES enumeration.  
 This will indicate how well the questions were understood and how accurately they were answered. mA large difference in answers may indicate that the questions were not well understood either by the enumerators or the respondents – and that similar questions need to be rewritten and tested prior to any further surveys or census.</p>
+
+### 11.2.2 Dissemination and Reporting of PES
+
+<p> A description of the PES methodology and the results of the PES analysis should be published so that users of the census data understand the limitations in the census results and can adjust accordingly. For example, see [Thematic Report: Post Enumeration Survey (https://www.statistics.gov.rw/publication/thematic-report-post-enumeration-survey) which has been published on the NISR website. </p>
