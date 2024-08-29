@@ -1,6 +1,10 @@
-# Selected Country Experiences
+---
+sidebar_position: 8
+---
 
-**Rwanda**
+## 11.7 Selected Country Experiences
+
+### 11.7.1 Rwanda
 
 <p> In Rwanda, the post-enumeration survey (PES) was carried out one month after the census enumeration. A sample of 180 enumeration areas (EAs) were selected for the PES stratified by district, sector and urban/rural. Each district had 6 EAs included in the sample. This corresponds to a sampling fraction of 0.74%. A short questionnaire was developed with two sections, one about demographic characteristics of household members and another about household members’ addresses (non-movers, out-movers and in-movers) with reference to Census night.</p>
 
