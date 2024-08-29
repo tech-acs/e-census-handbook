@@ -1,9 +1,13 @@
-# Matching
+---
+sidebar_position: 5
+---
+
+## 11.4 Matching
 
 Once the PES enumeration phase has been collected, the next stage of PES processing is to match the PES persons to the census persons.
 One of the assumptions of dual-system estimation is that the matching of the census to PES data is perfect. Whilst this is unlikely to be achieved in practice, the aim must be to ensure that the matching is as accurate as possible.
 
-## Automatic Matching
+### 11.4.1 Automatic Matching
 
 With electronic census and PES data, automatic matching techniques can be used to carry out most of the matching.  A deterministic or rule-based approach to matching has been found to work well.  
 With this approach, a series of matchkeys is developed where each matchkey is a set of conditions that a record pair must satisfy in order for that pair to be declared a match. INSERT LINK (see [case study: Rwanda](Selected_Country_Experiences_PES.md)) for an example of matchkeys). 
@@ -12,7 +16,7 @@ An ’age-tolerance’ function can also be used to account for small difference
 Automatic probabilistic matching algorithms can also be used for example the UK Ministry of Justice [Splink](https://www.gov.uk/government/publications/joined-up-data-in-government-the-future-of-data-linking-methods/splink-mojs-open-source-library-for-probabilistic-record-linkage-at-scale)
 implementation of the Fellegi-Sunter probabilistic matching algorithm is freely available.
 
-## Clerical Matching
+### 11.4.2 Clerical Matching
 
 Whilst the majority of matches (between 70% and 90% is to be expected depending on the quality of the data) should be made automatically, there will still be the need to perform clerical matching.
 A team of people trained in matching will be required to look at potential matches and decide whether or not the records are truly a match. 
@@ -25,4 +29,6 @@ can be used for clerical matching of census and PES data and is available free o
   - Review of the unmatched persons once all automatic matching stages have been completed.
   - Quality assurance of the automatic matching – samples of matched records are reviewed to estimate the false match rate, and for a sample of unmatched PES records, the census database is searched for a match to estimate the missed match rate.
 
-Figure 2 is an illustration of the CROW clerical matching system which clerical matchers can use to review record pairs or groups of records and confirm matches and non-matches. The system can be configured to display whichever variables are most useful for the country and task context. 
+This illustration of the CROW clerical matching system which clerical matchers can use to review record pairs or groups of records and confirm matches and non-matches. The system can be configured to display whichever variables are most useful for the country and task context. CAN WE ADD A PICTURE OF CROW HERE?
+
+
