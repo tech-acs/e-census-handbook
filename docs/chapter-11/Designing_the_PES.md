@@ -1,5 +1,9 @@
+---
+sidebar_position: 3
+---
 
-# Designing the PES 
+
+## 11.2 Designing the PES 
 
 When designing the PES, be clear about what you are trying to measure e.g., undercoverage estimates by region or at a national level? 
 The PES sample size is dependent on the level of geography at which estimates are desired.
