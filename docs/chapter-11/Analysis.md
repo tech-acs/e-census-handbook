@@ -1,4 +1,8 @@
-# Analysis
+---
+sidebar_position: 7
+---
+
+## 11.6 Analysis
 
 Once every person in the PES and census (in PES EAs) data has been classified as matched, incorrectly enumerated, or unmatched, this information – the matchlist – is passed to the estimation team.
 
