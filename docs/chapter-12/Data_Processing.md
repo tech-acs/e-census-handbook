@@ -47,7 +47,7 @@ i)	Discrepancies in the number of EAs from enumeration and data validation arisi
 ii)	Delay in finalization of edit specifications which slowed the harmonization of Geocodes. 
 Having supervisor re-interviews and consistency checks to ensure you've got all your data, and knowing what to do with any duplicates or if there are any data apparently lost is necessary to ensure there is a complete dataset.
 
-### Recommendations
+### 12.1.3 Recommendations
 Recommendations for future censuses include:
 
 i)	Ensure edit specifications are in place on time. To obtain accurate and hence useful census results, data must be free, to the greatest extent possible, from errors and inconsistencies, especially after the data processing stage.
