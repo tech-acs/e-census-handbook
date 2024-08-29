@@ -13,14 +13,14 @@ sidebar_position: 2
 ### 12.2.1	Selected country experiences
 <p> It is noted that electronic census products were produced alongside the traditional reports (which were also available electronically via various media. The production of census atlas, geo-spatial dissemination systems, interactive dashboards, use of infographics and popular version reports were innovative products in the digital census era. Below are some of the country specific census products.</p>
 
-**Kenya**
+#### Kenya
 <p> Several products were to be generated from 2019 KPHC meeting different user needs. They included: Preliminary report (Volume I); Basic volumes (Volume I-IV); Census data bases; Cartographic maps; Geodatabase that includes EAs-development of HH master sample frames; Census Thematic Maps (Population Atlas), Analytical/thematic reports (which are based on studies of demographic, social and economic topics, government priority as well as some methodological issues), Posters, Leaflets, Wall Charts and Brochures.</p> 
 
 <p> The first set of the four Basic census results were released within six months after the enumeration: Volume I: Distribution of the enumerated population by size, sex, number of households and average household size, at national, county and sub-county levels within 2 months - November, 2019; Volume II: Distribution of Population by Administrative units (up to Sub-Locational level-lowest administrative unit);  Volume III: Distribution of Population by Age, Sex and County; and Volume IV: Distribution of Population by Socio-Economic Characteristics.</p> 
 
 <p> Analytical Reports (Monographs) that were launched two years after enumeration (included: Fertility and Nuptiality: Levels, trends, and differentials in Fertility and Nuptiality; Mortality and Health : Levels, trends and patterns in mortality and health; Migration: Levels, trends and patterns in internal and international migration; Urbanization: Levels, trends and patterns of urbanization with a view of providing useful data for formulating appropriate and sustainable policies on urbanization; Household and Family Dynamics; Gender Dimension: provides gender differentials/gaps in various indicators; Disability: Levels and differentials in disability status; Youths and Adolescents: demographic profiles, education levels, fertility levels, employment status, disability, and ICT usage concerning the youth and adolescents; The older and vulnerable population: situation of vulnerable segments of population in Kenya (the elderly-age 60+; orphans; working children (5 - 17); children in child headed household (HH <18 years; persons who declared themselves as intersex etc.); Education and Training: School attendance status, education enrolment and attainment, training acquired and qualified for;  Housing conditions, amenities and household assets; ICT: use and ownership of  ICT equipment. Others that were launched included: Population Projections: Projections for 2020 – 2045, Labour Force Dynamics: Economic characteristics of the population; Agriculture; Population Dynamics; Census Atlas; Geo-Spatial Dissemination System; 2019 KPHC Popular Report; Administrative Report.</p>
 
-**Ghana**
+#### Ghana
 
 Ghana disseminated the following reports from the 2021 Population and Housing Census: 
 
@@ -33,13 +33,13 @@ Ghana disseminated the following reports from the 2021 Population and Housing Ce
  
 <p> Other products yet to be produced include plans to present statistics in interactive and user-friendly ways to promote usage of the data through the following mediums: Policy briefs; Interactive census results dashboard; Infographics; Dissemination seminars; Webinars for data users; Videos; 10% Public Use Microdata Sample.</p>
 
-**Malawi**
+#### Malawi
 
 <p> Malawi completed her digital census in 2018. The NSO produced print and digital products. Some of the products include: Census Preliminary Report, District Reports  - 28 Districts and 4 Cities, Thematic Reports (17 types), Political Constituency Reports, Press Releases, Magazine and Newspaper inserts, Media and Policy Briefs, Data Wheels, Census posters A1, A3, A5, Roll-up Banners, Journal Paper - [Malawi population and housing census technological trajectroy: Unpacking 2018 experience](https://content.iospress.com/download/statistical-journal-of-the-iaos/sji190587?id=statistical-journal-of-the-iaos%2Fsji190587).</p>
 
 <p> The website contains links to the main census report, thematic reports; Statistical tables; and Smart Census Application. The census products are also disseminated in the Malawi Data Dissemination Platform (MDDP). It has helped in enhancing / expansion of easily accessible digital dissemination of statistics through innovation; Support data analysis and dissemination of census reports, Widen data literacy and usage. MDDP offers: Statistical tables; Thematic maps; Platform with flexible search functionality that allows extraction of data: - To make comparisons; To yield insights into various aspects of Malawi’s social, spatial, and economic conditions; To create infographics for better understanding; Make independent data analysis. A demonstration on how the platform is used was made.</p>
 
-**Mozambique**
+#### Mozambique
 
 <p> From the 2017 census, the following products were produced: Preliminary and final Report (selected table); Brochure of National and Provincial summary results; Projection at national and provincial level; Shape file and geographic codes; REDATAM; PX-WEB; 10% public use micro data simply. Other products included: Atlas for children and general; Infantile brochure; Comics for teenagers and youth; Informative board on roads and borders.</p>
 
