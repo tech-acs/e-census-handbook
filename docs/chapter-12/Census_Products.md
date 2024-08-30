@@ -13,5 +13,32 @@ Several products were to be generated from 2019 KPHC meeting different user need
 
 The first set of the four Basic census results were released within six months after the enumeration: Volume I: Distribution of the enumerated population by size, sex, number of households and average household size, at national, county and sub-county levels within 2 months - November, 2019; Volume II: Distribution of Population by Administrative units (up to Sub-Locational level-lowest administrative unit);  Volume III: Distribution of Population by Age, Sex and County; and Volume IV: Distribution of Population by Socio-Economic Characteristics. 
 
+Analytical Reports (Monographs) that were launched two years after enumeration included:
+- Fertility and Nuptiality: Levels, trends, and differentials in Fertility and Nuptiality;
+- Mortality and Health: Levels, trends and patterns in mortality and health;
+- Migration: Levels, trends and patterns in internal and international migration;
+- Urbanization: Levels, trends and patterns of urbanization with a view of providing useful data for formulating appropriate and sustainable policies on urbanization;
+- Household and Family Dynamics;
+- Gender Dimension: provides gender differentials/gaps in various indicators;
+- Disability: Levels and differentials in disability status;
+- Youths and Adolescents: demographic profiles, education levels, fertility levels, employment status, disability, and ICT usage concerning the youth and adolescents;
+- The older and vulnerable population: situation of vulnerable segments of population in Kenya (the elderly-age 60+;
+- Orphans;
+- Working children (5 - 17);
+- Children in child headed household (HH <18 years;
+- Persons who declared themselves as intersex etc.;
+- Education and Training: School attendance status, education enrolment and attainment, training acquired and qualified for;
+- Housing conditions, amenities and household assets;
+- ICT: use and ownership of  ICT equipment.
+
+Others that were launched included: 
+- Population Projections: Projections for 2020 – 2045
+- Labour Force Dynamics: Economic characteristics of the population;
+- Agriculture;
+- Population Dynamics;
+- Census Atlas;
+- Geo-Spatial Dissemination System;
+- 2019 KPHC Popular Report;
+- Administrative Report.
 
 
