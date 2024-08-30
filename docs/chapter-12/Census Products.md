@@ -26,7 +26,7 @@ It is noted that electronic census products were produced alongside the traditio
 >- The older and vulnerable population: situation of vulnerable segments of population in Kenya (the elderly-age 60+);
 >- Orphans;
 >- Working children (5 - 17);
->- Children in child headed household (HH <18 years);
+>- Children in child headed household (HH<18 years);
 >- Persons who declared themselves as intersex etc.;
 >- Education and Training: School attendance status, education enrolment and attainment, training acquired and qualified for;
 >- Housing conditions, amenities and household assets;
