@@ -8,7 +8,7 @@ With digital census, geospatial and related products are now possible since GPS 
 ### 12.2.1 Selected country experiences
 It is noted that electronic census products were produced alongside the traditional reports (which were also available electronically via various media. The production of census atlas, geo-spatial dissemination systems, interactive dashboards, use of infographics and popular version reports were innovative products in the digital census era. Below are some of the country specific census products.
 
-**Kenya**
+#### Kenya
 Several products were to be generated from 2019 KPHC meeting different user needs. They included: Preliminary report (Volume I); Basic volumes (Volume I-IV); Census data bases; Cartographic maps; Geodatabase that includes EAs-development of HH master sample frames; Census Thematic Maps (Population Atlas), Analytical/thematic reports (which are based on studies of demographic, social and economic topics, government priority as well as some methodological issues), Posters, Leaflets, Wall Charts and Brochures.
 
 
