@@ -45,7 +45,7 @@ Ghana disseminated the following reports from the 2021 Population and Housing Ce
 
 ### 12.2.2 Lessons Learnt
 
-<p> There is a need to address geographical boundary disputes before launch and dissemination of reports by administrative/political boundaries. These disputes affect enumeration and can be resolved and agreed upon during map verification.</p>
+<p> There is a need to address geographical boundary disputes before launch and dissemination of reports by administrative/political boundaries. These disputes affect [enumeration](https://tech-acs.github.io/e-census-handbook/docs/chapter-10/10.2-EA-identification#1022lessons-learnt) and can be resolved and agreed upon during [map verification](https://tech-acs.github.io/e-census-handbook/docs/chapter-03/3.6-EA-Map-verification#36-ea-map-verification).</p>
 
 ### 12.2.3	Recommendations
 
