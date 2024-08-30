@@ -26,16 +26,6 @@ Ghana disseminated the following reports from the 2021 Population and Housing Ce
 - Volume 6: Census Atlas- The 2021 PHC atlas will present information on socio-demographic, economic and housing characteristics in maps at the regional and district levels.
 Other products yet to be produced include plans to present statistics in interactive and user-friendly ways to promote usage of the data through the following mediums: Policy briefs; Interactive census results dashboard; Infographics; Dissemination seminars; Webinars for data users; Videos; 10% Public Use Microdata Sample.
 
-#### Malawi
-Malawi completed her digital census in 2018. The NSO produced print and digital products. Some of the products include: Census Preliminary Report, District Reports - 28 Districts and 4 Cities, Thematic Reports (17 types), Political Constituency Reports, Press Releases, Magazine and Newspaper inserts, Media and Policy Briefs, Data Wheels, Census posters A1, A3, A5, Roll-up Banners, Journal Paper - [Malawi population and housing census technological trajectroy: Unpacking 2018 experience](https://content.iospress.com/download/statistical-journal-of-the-iaos/sji190587?id=statistical-journal-of-the-iaos%2Fsji190587).
-
-The website contains links to the main census report, thematic reports; Statistical tables; and Smart Census Application. The census products are also disseminated in the Malawi Data Dissemination Platform (MDDP). It has helped in enhancing / expansion of easily accessible digital dissemination of statistics through innovation; Support data analysis and dissemination of census reports, Widen data literacy and usage. MDDP offers: Statistical tables; Thematic maps; Platform with flexible search functionality that allows extraction of data: - To make comparisons; To yield insights into various aspects of Malawi’s social, spatial, and economic conditions; To create infographics for better understanding; Make independent data analysis. A demonstration on how the platform is used was made.
-
-#### Mozambique
-From the 2017 census, the following products were produced: Preliminary and final Report (selected table); Brochure of National and Provincial summary results; Projection at national and provincial level; Shape file and geographic codes; REDATAM; PX-WEB; 10% public use micro data simply. Other products included: Atlas for children and general; Infantile brochure; Comics for teenagers and youth; Informative board on roads and borders.
-
-### 12.2.2 Lessons Learnt
-There is a need to address geographical boundary disputes before launch and dissemination of reports by administrative/political boundaries. These disputes affect [enumeration](https://tech-acs.github.io/e-census-handbook/docs/chapter-10/10.2-EA-identification#1022lessons-learnt) and can be resolved and agreed upon during [map verification](https://tech-acs.github.io/e-census-handbook/docs/chapter-03/3.6-EA-Map-verification#36-ea-map-verification).
 
 ### 12.2.3 Recommendations
 Ensure adequate budgeting and resource mobilization for development of various products should be in time to ensure the financial support is availed in time.
