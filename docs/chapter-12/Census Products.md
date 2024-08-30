@@ -23,17 +23,17 @@ It is noted that electronic census products were produced alongside the traditio
 >- Gender Dimension: provides gender differentials/gaps in various indicators;
 >- Disability: Levels and differentials in disability status;
 >- Youths and Adolescents: demographic profiles, education levels, fertility levels, employment status, disability, and ICT usage concerning the youth and adolescents;
->- The older and vulnerable population: situation of vulnerable segments of population in Kenya (the elderly-age 60+;
+>- The older and vulnerable population: situation of vulnerable segments of population in Kenya (the elderly-age 60+);
 >- Orphans;
 >- Working children (5 - 17);
->- Children in child headed household (HH <18 years;
+>- Children in child headed household (HH <18 years);
 >- Persons who declared themselves as intersex etc.;
 >- Education and Training: School attendance status, education enrolment and attainment, training acquired and qualified for;
 >- Housing conditions, amenities and household assets;
 >- ICT: use and ownership of  ICT equipment.
 >
 >Others that were launched included: 
->- Population Projections: Projections for 2020 – 2045
+>- Population Projections: Projections for 2020–2045
 >- Labour Force Dynamics: Economic characteristics of the population;
 >- Agriculture;
 >- Population Dynamics;
