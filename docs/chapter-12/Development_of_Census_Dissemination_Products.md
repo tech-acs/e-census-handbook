@@ -54,3 +54,16 @@ Topics for dissemination depend on census questionnaire content. Consultations w
 > 9) Printing of the final report; 
 > 10) Launch of the reports. 
 
+#### Eswatini
+>
+> Thematic reports and population projections reports were produced but the Launch of thematic reports was delayed by two years because there was a shortage of staff to undertake data cleaning. UNFPA provided a Census Technical Specialist who was stationed within the NSO, managed the production of census products. 
+>
+> The process of developing census products entailed; the involvement of subject area specialists from within and outside of government (NSO personnel including the GIS Unit, health, education, the UN and others); So far  they have produced a series of thematic reports packaged in 10 publications.
+
+### 12.3.4 Lessons Learnt
+1.	Need to identify various users/stakeholders in time and engage them in the entire census process as this ensures key indicators are included in the various products and provision of technical/financial support; Identification of thematic experts and engaging them in time.
+2.	Development of census products is an integral part of the entire census process, failure in one step affects the other (see the case of Eswatini).
+
+### 12.3.5 Recommendations
+Planning and development of the census products should be well thought out, planned, and budgeted to have a successful outcome of the census without delays in release of findings. Untimeliness compromises the quality and trust in the data.
+
