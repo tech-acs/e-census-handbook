@@ -59,3 +59,22 @@ It is noted that electronic census products were produced alongside the traditio
 > - Geo-Spatial Dissemination System
 > - 2019 KPHC Popular Report
 > - Administrative Report
+
+#### Ghana
+>
+> Ghana disseminated the following reports from the 2021 Population and Housing Census: 
+> - Volume 1: Preliminary Report (It contains provisional results released 44 days after exiting field work)  
+> -	Volume 2: Proximity of residential structures to essential service facilities (This report presents results of geographic analysis of access to essential services such as health, education and security at the district level)
+> - Volume 3: General Report (Consist of 11 sub-volumes with priority tables on age-sex composition; demographic, social and economic proﬁle; housing conditions,  > household amenities and assets; sanitation and ICT device ownership and usage.). 
+>  -	Volume 4: 23 Thematic Reports-These reports will present more detailed disaggregated statistics on policy-relevant and cross-cutting topics at the national and regional levels, using census data mainly. 
+>  -	Volume 5: 25 Analytical Reports-These reports will present ﬁndings from analyses to answer policy-relevant research questions, using census data and complemented with other data sources. 
+>   - Volume 6: Census Atlas- The 2021 PHC atlas will present information on socio-demographic, economic and housing characteristics in maps at the regional and district levels.
+>     
+> Other products yet to be produced include plans to present statistics in interactive and user-friendly ways to promote usage of the data through the following mediums:
+> - Policy briefs
+> - Interactive census results dashboard
+> - Infographics
+> - Dissemination seminars
+> - Webinars for data users
+> - Videos
+> - 10% Public Use Microdata Sample
