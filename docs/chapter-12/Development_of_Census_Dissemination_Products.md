@@ -27,3 +27,10 @@ When developing census products, the following checklist should be put in consid
 5.	Findable – clear product name or title, matches what users will use as search terms online; 
 6.  Look and feel – no clutter, consistent language, and looks professional.
 
+### 12.3.2 The census dissemination content
+It is important to prioritize visualization of the census data because it helps to give a fast overview or summary of a dataset; it communicates memorable and important stories in a dataset; it reveals insights that would otherwise be hidden.
+
+When designing digital content, it is desirable to use simple, non-technical language, clear and concise headings and sub-headings, short sentences of no more than 25 words, compact paragraphs of no more than four sentences, bullet points to make text easier to read, frontloaded text with the most important information first and charts where appropriate to illustrate text.
+
+Topics for dissemination depend on census questionnaire content. Consultations with users are important when determining the questionnaire design. The consultations should include planned tabulations and other outputs and the development of the census database. Census topics should meet the requirements of users, considering cost-effectiveness, human resources, time availability and respondent burden. 
+
