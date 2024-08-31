@@ -101,3 +101,15 @@ It is noted that electronic census products were produced alongside the traditio
 > - Infantile brochure
 > - Comics for teenagers and youth
 > - Informative board on roads and borders
+
+### 12.2.2 Lessons Learnt
+
+There is a need to address geographical boundary disputes before launch and dissemination of reports by administrative/political boundaries. These disputes affect [enumeration](https://tech-acs.github.io/e-census-handbook/docs/chapter-10/10.2-EA-identification#1022lessons-learnt) and can be resolved and agreed upon during [map verification](https://tech-acs.github.io/e-census-handbook/docs/chapter-03/3.6-EA-Map-verification#36-ea-map-verification).
+
+### 12.2.3 Recommendations
+- Ensure adequate budgeting and resource mobilization for development of various products should be in time to ensure the financial support is availed in time.
+- Timely launch of the reports has been necessitated due to technology. Countries should therefore commit to avail the various products in time to the stakeholders to use in the programming and policy formulation. 
+
+
+
+
