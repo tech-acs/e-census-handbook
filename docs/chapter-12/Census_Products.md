@@ -78,3 +78,9 @@ It is noted that electronic census products were produced alongside the traditio
 > - Webinars for data users
 > - Videos
 > - 10% Public Use Microdata Sample
+
+#### Malawi
+>
+>Malawi completed her digital census in 2018. The NSO produced print and digital products. Some of the products include: Census Preliminary Report, District Reports  - 28 Districts and 4 Cities, Thematic Reports (17 types), Political Constituency Reports, Press Releases, Magazine and Newspaper inserts, Media and Policy Briefs, Data Wheels, Census posters A1, A3, A5, Roll-up Banners, [Journal Paper](https://content.iospress.com/download/statistical-journal-of-the-iaos/sji190587?id=statistical-journal-of-the-iaos%2Fsji190587).
+>
+>The [website](https://www.nsomalawi.mw/census/2018) contains links to the main census report, thematic reports; Statistical tables; and Smart Census Application. The census products are also disseminated in the Malawi Data Dissemination Platform (MDDP). It has helped in enhancing / expansion of easily accessible digital dissemination of statistics through innovation; Support data analysis and dissemination of census reports, Widen data literacy and usage. MDDP offers: Statistical tables; Thematic maps; Platform with flexible search functionality that allows extraction of data: - To make comparisons; To yield insights into various aspects of Malawi’s social, spatial, and economic conditions; To create infographics for better understanding; Make independent data analysis. A demonstration on how the platform is used was made.
