@@ -19,4 +19,5 @@ This e-census handbook has chapters structured along the Census business model i
 - [Chapter Eleven: Data processing and census products](../chapter-11/introduction.md)
 - [Chapter Twelve: Digital Census Archiving](../chapter-12/introduction.md)
 - [Chapter Thirteen: Census planning checklist](../chapter-13/introduction.md)
+- [Chapter Fourteen: Census planning checklist](../chapter-14/introduction.md)
 
