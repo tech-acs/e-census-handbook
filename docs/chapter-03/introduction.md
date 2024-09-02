@@ -12,7 +12,7 @@ Digital cartographic mapping involves the use of mobile technology for:
 - map production which includes overlaying of spatial data collected in the field on satellite imageries/aerial photos, digitization of EA boundaries, preparation of EA maps; 
 - EA map verification. 
 
-Digital cartographic mapping has a wide range of benefits including better quality products, reduced cost, and reduced time for development of EA maps, increased accuracy, and improved consistency etc. (Handbook on geographic information systems and digital mapping, pg. 10-13).
+Digital cartographic mapping has a wide range of benefits including better quality products, reduced cost, and reduced time for development of EA maps, increased accuracy, and improved consistency etc. ([Handbook on geographic information systems and digital mapping, pg. 10-13](https://unstats.un.org/unsd/publication/SeriesF/SeriesF_79E.pdf)).
 
 In the non-digital era, all the above activities were manually done on paper and were prone to human error and produced bulky papers for field teams to carry around.
 
