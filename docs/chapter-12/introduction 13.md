@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## 12.1 Introduction
+## 13.1 Introduction
 After implementation of all census processes, several items are archived for future reference and use. These includes archiving of non-statistical data, statistical data, and various materials. Statistical data to be archived includes individual records. Technology and digital gadgets get obsolete at a higher rate compared to paper which may result into loss of census information sooner than expected. Therefore, in a digital census both electronic and non-electronic materials require to be archived.
 
 The goal of implementing good archiving practices is to keep individual census records safe and available for future use by the government, researchers, and the various census stakeholders. Therefore,
