@@ -70,9 +70,27 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'handbookSidebar',
+            sidebarId: 'experiencesLessons2020Sidebar',
             position: 'left',
-            label: 'Handbook',
+            label: 'Experiences & Lessons from the 2020 Round',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'caseStudiesSidebar',
+            position: 'left',
+            label: 'Case Studies',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'recommendationsSidebar',
+            position: 'left',
+            label: 'Recommendations',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'resourcesSidebar',
+            position: 'left',
+            label: 'Resources',
           },
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -88,8 +106,20 @@ const config = {
             title: 'Handbook',
             items: [
               {
-                label: 'E-Census Introduction',
-                to: '/docs/chapter-01/background',
+                label: 'Experiences & Lessons',
+                to: '/docs/experiences-lessons-2020/chapter-01/background',
+              },
+              {
+                label: 'Case Studies',
+                to: '/docs/case-studies/case-study-01/introduction',
+              },
+              {
+                label: 'Recommendations',
+                to: '/docs/recommendations/recommendation-01/introduction',
+              },
+              {
+                label: 'Resources',
+                to: '/docs/resources/resource-01/introduction',
               },
             ],
           },

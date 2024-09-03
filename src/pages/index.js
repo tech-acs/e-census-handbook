@@ -36,7 +36,7 @@ function HomepageHeader() {
         </div>
         <Link
             className="button button--secondary button--lg"
-            to="/docs/chapter-01/background"
+            to="/docs/experiences-lessons-2020/chapter-01/background"
           >
             Experiences and Lessons from the 2020 Round
           </Link>
