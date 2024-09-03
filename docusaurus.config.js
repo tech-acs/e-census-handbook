@@ -111,15 +111,15 @@ const config = {
               },
               {
                 label: 'Case Studies',
-                to: '/docs/case-studies/case-study-01/introduction',
+                to: '/docs/case-studies/case-study-ch01/case-study-01',
               },
               {
                 label: 'Recommendations',
-                to: '/docs/recommendations/recommendation-01/introduction',
+                to: '/docs/recommendations/recommendation-01/recommendation',
               },
               {
                 label: 'Resources',
-                to: '/docs/resources/resource-01/introduction',
+                to: '/docs/resources/resource-ch01',
               },
             ],
           },
