@@ -25,8 +25,8 @@ Before planning for archiving of the various items and products, the following s
 -	The nature and format of the census data files created in the data processing and dissemination phase. It is expected that the use of anonymized microdata becomes a standard feature of census data dissemination for the 2020 round of censuses.
 -	The records should be stored using media with long-term stability and access to these media is carefully controlled.
 -	Additionally, the organizational policies should be considered such as: 
--	Storage management policies for both paper and digital records.
--	Management access control policy to maintain confidentiality through format and documentation standards.
--	Emergency preparedness policies to limit damage from natural disasters or other emergencies.
--	Disaster recovery policies to provide mechanisms for duplicating digital content and storing it in separate physical facilities (with regular back-ups).
--	Security policies to prevent accidental or malicious loss.
+    -	Storage management policies for both paper and digital records.
+    -	Management access control policy to maintain confidentiality through format and documentation standards.
+    -	Emergency preparedness policies to limit damage from natural disasters or other emergencies.
+    -	Disaster recovery policies to provide mechanisms for duplicating digital content and storing it in separate physical facilities (with regular back-ups).
+    -	Security policies to prevent accidental or malicious loss.
