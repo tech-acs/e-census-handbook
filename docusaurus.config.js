@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'Recommendations',
-                to: '/docs/recommendations',
+                to: '/docs/recommendations/recommendation',
               },
               {
                 label: 'Resources',
