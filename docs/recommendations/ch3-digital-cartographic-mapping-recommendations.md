@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Chapter 03: Digital Cartographic Mapping - Recommendations
 [back to Handbook Chapter 3](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-03-digital-cartographic-mapping)
 
