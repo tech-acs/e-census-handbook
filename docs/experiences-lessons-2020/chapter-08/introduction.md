@@ -2,7 +2,8 @@
 sidebar_position: 1
 ---
 
-# 8.1	Communication
+# 8.1. Communication
+
 Communication is key for successful implementation of a population and housing census. During implementation of preparatory activities, effective communication is key to mobilize the required support from all the stakeholders. During census planning, adequate resources for census communication activities should be mobilized. After census, communication of the results to the various stakeholders in the right format and time is key. 
 
 A census communication strategy should be developed. The strategy should have a description of the statement of purpose; current situation (SWOT, PEST, and good practices); organizational and communications objectives; identifying stakeholders; key messages; key communications methods; work plan: outcomes and key performance indicators; and evaluation plan. 
