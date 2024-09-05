@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Introdcution 
+
 ## 12.1 Data Processing
 
 <p> Data processing is an integral part of a census process in which various steps are involved to organize, clean, and analyze the collected raw data into usable information that can be analyzed and disseminated. Census data processing is a complex and time-consuming process that requires careful planning, attention to details and execution through use of appropriate tools and methods. </p>
