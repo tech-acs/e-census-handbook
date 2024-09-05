@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Chapter 07: Logisitics, Financial Management and Procurement - Recommendations
 [back to Handbook Chapter 7](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-07-logistics-financial-management-and-procurement)
 
