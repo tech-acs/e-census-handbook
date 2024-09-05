@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Chapter 02: Planning a Digital Census - Recommendations
 [back to Handbook Chapter 2](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-02-planning-a-digital-census)
 
