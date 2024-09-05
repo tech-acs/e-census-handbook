@@ -111,11 +111,11 @@ const config = {
               },
               {
                 label: 'Case Studies',
-                to: '/docs/case-studies/ch2-planning-digital-census-case-studies.md',
+                to: '/docs/case-studies/ch2-planning-digital-census-case-studies',
               },
               {
                 label: 'Recommendations',
-                to: '/docs/recommendations/ch2-planning-digital-census-recommendations.md',
+                to: '/docs/recommendations/ch2-planning-digital-census-recommendations',
               },
               {
                 label: 'Resources',
