@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Chapter 05: Digital Census Tools and Instruments - Recommendations
 [back to Handbook Chapter 5](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-05-digital-census-tools-and-instruments)
 
