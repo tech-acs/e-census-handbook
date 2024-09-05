@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 10 Introduction  
+# 10. Introduction  
 
 The enumeration phase is among the most important stages  for a population and housing census that happens after years of preparatory activities. The main objective of enumeration is to ensure that all individuals are covered and enumerated only once to achieve a proper description of the total population of a country and its geographical distribution within the country. 
 
