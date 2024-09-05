@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Chapter 06: Recruitment, Training and Renumeration - Recommendations
 [back to Handbook Chapter 6](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-06-recruitment-training-and-renumeration)
 
