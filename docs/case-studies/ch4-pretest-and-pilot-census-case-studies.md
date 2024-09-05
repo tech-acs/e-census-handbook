@@ -1,8 +1,11 @@
 # Chapter 04: Pretest and Pilot Census - Case Studies
-[back to Handbook Chapter 4](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-04-pretest-and-pilot-census)
+
+[back to Handbook Chapter 4](/docs/category/chapter-04-pretest-and-pilot-census)
 
 ## 4.1 	Key areas to be piloted in digital census
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-04/4.1-Key-areas-to-be-piloted-in-digital-census#41-key-areas-to-be-piloted-in-digital-census)
+
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-04/4.1-Key-areas-to-be-piloted-in-digital-census)
+
 ### Kenya
 >Kenya conducted several field tests before the pilot census to test the content and flow of the questionnaires as well as consistency checks and skip patterns. The pilot census was conducted exactly a year to the census date, thereafter, two pre-tests were undertaken. 
 >-	The first pretest aimed to: test the census data collection; assess the suitability of the uploaded Enumeration Area (EA) maps; test the pre-enumeration household listing; and test the flow of the questionnaire with the newly added questions that were not tested during pilot census. 
@@ -25,4 +28,4 @@
 >Namibia conducted the Census Pilot Enumeration in September to October 2021 that provided important information on the adequacy of the field organization, supervisory areas, training program, extent of respondent burden, the data processing plan and other important aspects of the census that would better inform the actual census. Prior to the census pilot implementation, tests were done, and the data generated was used to review the batch editing program and test the monitoring dashboard.
 >The sampling design was purposive and included: special populations such as the Nomadic people in Opuwo that are based in Kunene region and Tsumkwe, holiday homes in Walvis/Swakop (coastal areas of Namibia); EAs in: commercial farms, resettlement farms, gated communities, communal settlements and urban (high class society, middle class, low/informal).
 
-[back to Handbook Chapter 4](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-04-pretest-and-pilot-census)
+[back to Handbook Chapter 4](/docs/category/chapter-04-pretest-and-pilot-census)

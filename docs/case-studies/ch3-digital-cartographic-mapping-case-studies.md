@@ -1,9 +1,9 @@
 # Chapter 03: Digital Cartographic Mapping - Case Studies
 
-[back to Handbook Chapter 3](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-03-digital-cartographic-mapping)
+[back to Handbook Chapter 3](/docs/category/chapter-03-digital-cartographic-mapping)
 
 ## 3.1 Development of digital cartographic mapping instruments and tools
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-03/3.1-Development-of-digital-cartographic-mapping-instruments-and-tools#31-development-of-digital-cartographic-mapping-instruments-and-tools)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-03/3.1-development-of-digital-cartographic-mapping-instruments-and-tools)
 
 ### Intended output from mapping.
 #### Namibia
@@ -45,7 +45,7 @@
 >The software used for development of the RGPH-5 Mapping tools were: ARCGIS and MOBAC
 
 ## 3.2 Pilot mapping 
-[Back to handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-03/3.2-Pilot-mapping#32-pilot-mapping)
+[Back to handbook section](/docs/experiences-lessons-2020/chapter-03/3.2-pilot-mapping)
 
 ### Kenya
 >The technology and instruments/tools embraced were tested before the actual cartographic mapping exercise. A pilot mapping exercise was conducted to identify the most ideal tablet for use especially one with high GPS accuracy- Samsung Galaxy J2 phone was identified as having accurate GPS readings; tested the Open Data Kit (ODK) application; tested the use of Satellite imageries and aerial photographs which were used for planning and allocation of work, plotting of boundaries and features; tested the adequacy of the data collection forms; tested the suitability of the KNBS Server and entire ICT system in undertaking the digital cartographic mapping. The pilot was also used to ascertain the type of and number of vehicles to be used as well as the resources that could be required to undertake cartographic mapping in the entire country. 
@@ -61,7 +61,7 @@
 >- In the second phase, the coverage was increased beyond the capital city with diversified prevailing conditions including hard to reach areas and poor internet connectivity. Three sections were randomly selected across the country. 
 
 ## 3.3 Publicity and advocacy for cartographic mapping
-[Back to handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-03/3.3-Publicity-and-advocacy-for-cartographic-mapping#33-publicity-and-advocacy-for-cartographic-mapping)
+[Back to handbook section](/docs/experiences-lessons-2020/chapter-03/3.3-publicity-and-advocacy-for-cartographic-mapping)
 
 ### Kenya
 > In Kenya the publicity and advocacy for the cartographic and mapping exercise was cascaded and done through the print media, radio, TV, social media and holding physical community mobilization meetings for the local administration who were in turn to hold community level sensitization meetings. Sensitization of the local administrative leadership was done by NSO staff sensitizing the local administrative officers in each county. The sensitization meetings were held, and the administrative officers were taken through the importance of census and the activities involved in the census process, inform how the village elders were to fill the mapping form 1 provided to them in the rural villages.
@@ -74,7 +74,7 @@
 the census mapping. Mobilization was done in each selected EA before commencement of data collection exercises to ensure that local people were aware of the project and what was expected of them. Courtesy visits to constituency and local councilors were also undertaken to introduce the exercise and request them to inform their constituency inhabitants about the exercise during their respective radio announcements and community meetings. In addition, FM Radio announcements, local newspapers, television, and specific talk shows among others to announce the commencement of fieldwork.
 
 ## 3.4 Field data collection for cartographic mapping
-[Back to handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-03/3.4-Field-data-collection-for-cartographic-mapping#34-field-data-collection-for-cartographic-mapping)
+[Back to handbook section](/docs/experiences-lessons-2020/chapter-03/3.4-field-data-collection-for-cartographic-mapping)
 
 ### Kenya
 >In Kenya, the exercise started with 12 teams with each team comprising of a team leader and 7 mapping assistants. There were also coordinators in charge of several teams. The number of teams was later increased to 40 with a total of 400 temporary Mapping Assistants (MAs) who were recruited and trained to speed up the mapping process. 
@@ -127,7 +127,7 @@ The Data quality assurance officers and Assistants were on the other hand busy w
 > In Sierra Leone the verification process was followed up with a ground truthing exercise. To ensure that only accredited functionaries use the App, the mapping PAD periodically runs system authentication on every phone the App is installed.
 
 ## 3.7 Mapping personnel (recruitment, training, deployment, payments, leave/HR issues)
-[Back to handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-03/3.7-Mapping-personnel#37-mapping-personnel-recruitment-training-deployment-payments-leavehr-issues)
+[Back to handbook section](/docs/experiences-lessons-2020/chapter-03/3.7-mapping-personnel-recruitment-training-deployment-payments-leavehr-issues)
 
 ### Sierra Leone
 >- The Statistics Sierra Leone Councils that oversee the institution and thus responsible for the recruitment processes in the institution coordinated and supervised the recruitment process of the cartographic field staff. 
@@ -137,4 +137,4 @@ The Data quality assurance officers and Assistants were on the other hand busy w
 >- The cadre of personnel engaged in the Sierra Leone cartographic mapping included: Mappers mainly responsible for collecting data, updating features and delineating the EAs on the imagery; Team leaders to supervise and undertake quality checks of the mappers in the field; GIS officer to coordinate the work of the GIS Assistants at the district level; National GIS officer responsible for coordination of all digital mapping activities in the Country; National coordination team that included senior cartographers to oversee implementation of the cartographic activity in the country. He is to liaise with the regional coordinator to ensure the smooth running and successful conclusion of the exercise in the country. 
 >- Quality Assurance Team (QA) to ensure that Quality Assurance/Quality Control procedures are well established and understood by members of the Census cartographic team.
 
-[back to Handbook Chapter 3](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-03-digital-cartographic-mapping)
+[back to Handbook Chapter 3](/docs/category/chapter-03-digital-cartographic-mapping)

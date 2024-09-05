@@ -1,9 +1,9 @@
 # Chapter 02: Planning a Digital Census - Case Studies
 
-[back to Handbook Chapter 2](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-02-planning-a-digital-census)
+[back to Handbook Chapter 2](/docs/category/chapter-02-planning-a-digital-census)
 
 ## Development of the Census Proposal
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-02/2.1-Development-of-the-census-proposal#21-development-of-the-census-proposal)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-02/2.1-development-of-the-census-proposal)
 ### Kenya
 >The planning process started in 2015 (four years to the census date). The proposal provided a road map and detailed plan on how to effectively operationalize all three phases of the census processes: the pre-enumeration phase, enumeration phase and post-enumeration phase. The proposal was developed internally by the KNBS staff. The drafted proposal went through vigorous revisions based on inputs from various census experts, stakeholders and other government departments before finalization and eventual approval of the document two years later in May 2017. After finalization of the census project proposal, a cabinet memo was developed to forward the proposal to the cabinet for information and approval.
 >
@@ -28,7 +28,7 @@
 >Preparations started with a review of the lessons learnt from the previous census to inform the plan while avoiding the 2015 PHC pitfalls for a smoother operation to ensure a more cost-effective approach that was inclusive, meaningful, practical, creative, and timely.
 
 ## Development of Census Budget and Workplan
-[Back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-02/2.2-Development-of-census-budget-and-workplan#22development-of-census-budget-and-workplan)
+[Back to Handbook section](/docs/experiences-lessons-2020/chapter-02/2.2-development-of-census-budget-and-workplan)
 
 ### Kenya
 > 
@@ -39,7 +39,7 @@
 >The budget was developed internally and later presented to potential donors and development partners for possible funding opportunities. The highest budget drivers were census mapping activities; CAPI technology devices; vehicle rentals and remuneration of field personnel (due to an increase in Enumeration Areas). The budget was revised on several occasions due to inadequate funding from the government. 
 
 ## Establishment of Implementation Committees
-[Back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-02/2.3-Establishment-of-implementation-committees#23establishment-of-implementation-committees)
+[Back to Handbook section](/docs/experiences-lessons-2020/chapter-02/2.3-establishment-of-implementation-committees)
 
 ### Kenya
 >Committees and offices coordinated the implementation of the census process. The legal notice outlined the membership and functions of the committees and office bearers of the census offices. These committees were operationalized by inaugural meetings organized by the respective chairpersons. The members were inducted on their roles and responsibilities during the inauguration.
@@ -65,4 +65,4 @@
 >
 >Outsourcing of technical support was done and consultancy support was provided by UNFPA/World Bank/ UNECA. Technical backstopping was in the fields of census organization, census desk top review, census quality control and evaluation, census communication/operational control, electronic programming of questionnaire/analysis (mapping/listing of localities, data processing/ data base management and data analysis/ dissemination.
 
-[back to Handbook Chapter 2](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-02-planning-a-digital-census)
+[back to Handbook Chapter 2](/docs/category/chapter-02-planning-a-digital-census)
