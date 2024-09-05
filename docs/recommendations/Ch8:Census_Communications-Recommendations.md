@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Chapter 08: Census Communications - Publicity, Advocacy and Dissemination - Recommendations
 [back to handbook Chapter 8](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-08-census-communication--publicity-advocacy-and-dissemination)
 
