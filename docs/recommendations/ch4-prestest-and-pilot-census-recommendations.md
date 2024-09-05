@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Chapter 04: Pretest and Pilot Census - Recommendations
 [back to Handbook Chapter 4](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-04-pretest-and-pilot-census)
 
