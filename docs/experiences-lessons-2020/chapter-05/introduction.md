@@ -2,7 +2,8 @@
 sidebar_position: 1
 ---
 
-## 5.0 Introduction
+# 5.0 Introduction 
+
 Development of the questionnaires and manuals is among the initial preparatory activities that should be well planned to ensure the census captures the intended quality data to meet the global, regional, and national data requirements. The main tools to be developed include the questionnaires for cartographic mapping, pilot census, the enumeration as well as the Post Enumeration Survey (PES) and their corresponding instructions manuals.
 
 Important to note is that the implications of a poorly designed questionnaire cannot be rectified during and after enumeration thus successful implementation of tools development has a significant impact on the quality of data and census outputs.
