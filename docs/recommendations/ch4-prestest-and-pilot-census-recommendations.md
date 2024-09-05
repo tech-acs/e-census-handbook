@@ -3,9 +3,9 @@ sidebar_position: 3
 ---
 
 # Chapter 04: Pretest and Pilot Census - Recommendations
-[back to Handbook Chapter 4](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-04-pretest-and-pilot-census)
+[back to Handbook Chapter 4](/docs/category/chapter-04-pretest-and-pilot-census)
 
-1. Adequate budgeting and resourcing for a pilot census and other testing activities should be taken into consideration to avoid budgetary constraints as was the case in Kenya that budgeted for one pilot exercise. There is a need to provide adequate resources to undertake the pilot census, questionnaire pretests and the subsequent post pilot testing exercises. Effective planning and resourcing for the pilot and pretests needs to be carefully done as this is normally overlooked during the planning process. See more on [budgeting](https://tech-acs.github.io/e-census-handbook/docs/chapter-02/2.2-Development-of-census-budget-and-workplan#22development-of-census-budget-and-workplan)
+1. Adequate budgeting and resourcing for a pilot census and other testing activities should be taken into consideration to avoid budgetary constraints as was the case in Kenya that budgeted for one pilot exercise. There is a need to provide adequate resources to undertake the pilot census, questionnaire pretests and the subsequent post pilot testing exercises. Effective planning and resourcing for the pilot and pretests needs to be carefully done as this is normally overlooked during the planning process. See more on [budgeting](/docs/experiences-lessons-2020/chapter-02/2.2-development-of-census-budget-and-workplan)
 2. The purposively selected EAs for the pilot census should be exhaustive within the country’s context as was the case in Kenya, Namibia. 
 3. Prior to the census pilot implementation, all digital data collection tools including all application menus should be tested and the data generated should be used to make reviews such as on the batch editing program, the monitoring dashboard etc. Avoid conducting a pilot census when all is not set including the questionnaire content.
 4. It is important to ensure that all the aspects of the digital PHC are tested before the actual census. After each modification, a test should be done to ensure that the updated data capture and monitoring system is working properly. 

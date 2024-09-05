@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Chapter 02: Planning a Digital Census - Recommendations
-[back to Handbook Chapter 2](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-02-planning-a-digital-census)
+[back to Handbook Chapter 2](/docs/category/chapter-02-planning-a-digital-census)
 
 1.	The census planning should start several years in advance, utilize stakeholder engagements, and eventually obtain the political will to implement.
 2.	A census plan should not be static but rather dynamic to accommodate any changes that may occur at any of the phases.

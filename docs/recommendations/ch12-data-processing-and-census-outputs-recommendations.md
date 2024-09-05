@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 # Chapter 12: Data Processing and Census Outputs - Recommendations
-[back to Handbook Chapter 12](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-12-data-processing-and-census-outputs)
+[back to Handbook Chapter 12](/docs/category/chapter-12-data-processing-and-census-outputs)
 
 1. Ensure edit specifications are in place on time. To obtain accurate and hence useful census results, data must be free, to the greatest extent possible, from errors and inconsistencies, especially after the data processing stage.
 2. Improve how enumerators are trained to minimize errors. 

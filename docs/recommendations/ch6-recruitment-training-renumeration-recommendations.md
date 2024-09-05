@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Chapter 06: Recruitment, Training and Renumeration - Recommendations
-[back to Handbook Chapter 6](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-06-recruitment-training-and-renumeration)
+[back to Handbook Chapter 6](/docs/category/chapter-06-recruitment-training-and-renumeration)
 
 1. A recruitment software/portal should be deployed to ease the process of receiving applications, shortlisting, and selection of personnel.
 2. Provision of adequate workforce at the sub region (statistics offices if they exist) during the census period should be made.

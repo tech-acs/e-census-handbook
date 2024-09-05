@@ -3,7 +3,8 @@ sidebar_position: 7
 ---
 
 # Chapter 08: Census Communications - Publicity, Advocacy and Dissemination - Recommendations
-[back to handbook Chapter 8](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-08-census-communication--publicity-advocacy-and-dissemination)
+
+[back to handbook Chapter 8](/docs/category/chapter-08-census-communication--publicity-advocacy-and-dissemination)
 
 1.	A comprehensive publicity and advocacy plan should be put in place to target all populations especially the rural or urban residents, residents of formal or informal housing, participants in the formal or informal economy, fully literate, semi-literate, and illiterate groups, speakers of minority languages, recent internal or international migrants, remotely situated or nomadic populations. In addition, special messages should be tailored for the resistant communities.
 2.	Publicity for the census should commence from the onset of the census process including during cartographic mapping and pre-enumeration listing, to the end.  This will help build the confidence of the public over time and mitigate issues such as fake advertisements. During the census preparatory phase, the implementing agencies need to undertake a wide publicity and advocacy campaign to inform the public of the census and to explain its purpose and hence mobilize support and participation. 

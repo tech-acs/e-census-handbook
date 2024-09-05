@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Chapter 03: Digital Cartographic Mapping - Recommendations
-[back to Handbook Chapter 3](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-03-digital-cartographic-mapping)
+[back to Handbook Chapter 3](/docs/category/chapter-03-digital-cartographic-mapping)
 
 1.	Given the existing internet challenges in some parts of the continent, the choice of software should take into consideration the ability to work both online and offline.
 2.	Benchmarking with countries that have already undertaken digital cartographic mapping is key in informing the mapping methodology and especially the choice of software. 

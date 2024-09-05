@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 
 # Chapter 09:Technology, Innovations and Data Management
-[back to Handbook Chapter 9](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-09-ict)
+[back to Handbook Chapter 9](/docs/category/chapter-09-technology-innovations-and-data-management)
 
 1.	Countries should engage the local mobile phone companies to provide internet services at an agreed fairer fee. This plays a vital role in transfer of data directly from the field to the offices to avoid multiple layers of data transfer and possible data loss. This also allows for real-time data flow monitoring and quality assurance.
 2.	Procurement of census servers should be done well on time (at least 6 months before census enumeration). This should give the data management team enough time to interact and familiarize them with the servers by having adequate simulations and test runs.

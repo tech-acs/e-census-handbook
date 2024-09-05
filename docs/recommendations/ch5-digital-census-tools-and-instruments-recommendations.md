@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Chapter 05: Digital Census Tools and Instruments - Recommendations
-[back to Handbook Chapter 5](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-05-digital-census-tools-and-instruments)
+[back to Handbook Chapter 5](/docs/category/chapter-05-digital-census-tools-and-instruments)
 
 1.	Ensure that there is an app help function installed on the tablet, especially for questions and variables that are harder for enumerators to remember. This allows for a quick reference point. 
 2.	Benchmarking with countries that had already undertaken a census using handheld devices was key. Inputs from other countries assisted to a great extent the finalization of the tools and instruments. 

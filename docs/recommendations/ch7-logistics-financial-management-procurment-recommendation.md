@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # Chapter 07: Logisitics, Financial Management and Procurement - Recommendations
-[back to Handbook Chapter 7](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-07-logistics-financial-management-and-procurement)
+[back to Handbook Chapter 7](/docs/category/chapter-07-logistics-financial-management-and-procurement)
 
 1. To effectively manage census logistics, there should be strong partnerships and collaboration both within and out of the country. For instance, in Kenya, other government departments with good infrastructure assisted in movement of materials such as the disciplined forces (Army and police) for provision of transport and security. This collaboration can also continue for future censuses.
 2.	The constitution of a census logistics team is a good practice but should be done early in the census planning cycle, at least one year to census enumeration and the team should be part of the pilot census. The operations at the subnational level should be given attention in terms of staffing and training on logistical operations.

@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 
 # Chapter 10: Enumeration - Recommendations
-[back to Handbook Chapter 10](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-10-enumeration)
+[back to Handbook Chapter 10](/docs/category/chapter-10-enumeration)
 
 1. It is recommended that the pre-enumeration listing of households is done soon after the training and completed the day before enumeration starts and should have the community well informed. It should be done electronically for quick results.
 2. The cartographic mapping process should be done well in advance of the enumeration and the pilot census should target the likely boundary problematic areas and test the map reading application thoroughly so that a uniform solution is got upfront.

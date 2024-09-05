@@ -3,7 +3,7 @@ sidebar_position: 12
 ---
 
 # Chapter 13: Digital Census Archiving - Recommendations
-[back to Handbook Chapter 13](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-13-digital-census-archiving)
+[back to Handbook Chapter 13](/docs/category/chapter-13-digital-census-archiving)
 
 1. A detailed guidance on the process of archiving individual census records should be included in the census legislation and should be in accordance with the country’s laws on archiving of official government documents and information. These provisions provide the legal basis for maintaining the archives and procedures related to the release of archived official government records.
 2. The duration of retention of the various documents should be well thought out in time.
