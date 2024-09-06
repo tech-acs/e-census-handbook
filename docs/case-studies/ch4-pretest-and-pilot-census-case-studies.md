@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Chapter 04: Pretest and Pilot Census - Case Studies
 
 [back to Handbook Chapter 4](/docs/category/chapter-04-pretest-and-pilot-census)
