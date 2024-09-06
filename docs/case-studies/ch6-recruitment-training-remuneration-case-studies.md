@@ -3,10 +3,10 @@ sidebar_position: 5
 ---
 
 # Chapter 06: Recruitment, Training and Remuneration - Case Studies
-[back to Handbook Chapter 6](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-06/introduction)
+[back to Handbook Chapter 6]
 
 ## Recruitment
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-06/introduction#61-recruitment)
+[back to Handbook section]
 ### Namibia
 >Namibia used an e-recruitment system during implementation of pilot and main census enumeration. The NSO recruited enumerators, team supervisors and IT field technicians as per the planned field structure. The recruitment for the census pilot was mainly at constituency level and the most preferred people were those who live in the selected EAs and all the temporary census pilot positions were advertised externally i.e. on the NSA website, the Ministry of Labour, Industrial Relations and Employment Creation’s website, in the local newspapers, on the Radio and on the noticeboards of the following places:  NSA Regional office, Regional council office, the Clinics, Schools, Police stations, Malls or Shopping centers. Any persons interested in applying for the various positions was encouraged to apply online via the Ministry of Labour, Industrial Relations, and Employment Creation’s website.
 >
