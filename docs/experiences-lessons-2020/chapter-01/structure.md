@@ -11,8 +11,7 @@ This e-census handbook has chapters structured along the Census business model i
 - [Chapter Three:  Digital cartographic mapping](../chapter-03/introduction.md)
 - [Chapter Four: Census testing and pilot](../chapter-04/introduction.md)
 - [Chapter Five: Census tools and instruments](../chapter-05/introduction.md)
-- [Chapter Six: Recruitment and training of census personnel](../chapter-06/introduction.md)
-- [Chapter Seven: Census Logistics](../chapter-07/introduction.md)
+-
 - [Chapter Eight: Census communication (publicity, advocacy, and dissemination)](../chapter-08/introduction.md)
 - [Chapter Nine: Technology, innovations, and data management](../chapter-09/introduction.md)
 - 
