@@ -1,5 +1,5 @@
 ---
-id: Chapter 02: Planning a Digital Census - Case Studies
+id: Chapter 02 Planning a Digital Census - Case Studies
 sidebar_postition: 1
 ---
 
