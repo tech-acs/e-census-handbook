@@ -6,14 +6,18 @@ sidebar_position: 5
 
 This e-census handbook has chapters structured along the Census business model including a checklist to guide the planning process. The list of the chapters is as indicated below:
 
-- [Chapter One: Introduction to the e-census handbook](./background.md).
-- [Chapter Two: Digital census planning](../chapter-02/introduction.md)
-- [Chapter Three:  Digital cartographic mapping](../chapter-03/introduction.md)
-- [Chapter Four: Census testing and pilot](../chapter-04/introduction.md)
-- [Chapter Five: Census tools and instruments](../chapter-05/introduction.md)
--
-- [Chapter Eight: Census communication (publicity, advocacy, and dissemination)](../chapter-08/introduction.md)
-- [Chapter Nine: Technology, innovations, and data management](../chapter-09/introduction.md)
-- 
-- [Chapter Fourteen: Checklist for planning a digital Population and Housing Census in Africa](../chapter-14/introduction.md)
+- [Chapter 01: Introduction to the e-census handbook](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-01-introduction)
+- [Chapter 02: Digital census planning](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-02-planning-a-digital-census)
+- [Chapter 03:  Digital cartographic mapping](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-03-digital-cartographic-mapping)
+- [Chapter 04: Census testing and pilot](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-04-pretest-and-pilot-census)
+- [Chapter 05: Census tools and instruments](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-05-digital-census-tools-and-instruments)
+- [Chapter 06: Recruitment, training and remuneration](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-06-recruitment-training-and-renumeration)
+- [Chapter 07: Logistics, financial management and procurement](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-07-logistics-financial-management-and-procurement)
+- [Chapter 08: Census communication (publicity, advocacy, and dissemination)](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-08-census-communication--publicity-advocacy-and-dissemination)
+- [Chapter 09: Technology, innovations, and data management](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-09-technology-innovations-and-data-management)
+- [Chapter 10: Enumeration](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-10-enumeration)
+- [Chapter 11: Post-enumeration survey ](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-11-post-enumeration-survey)
+- [Chapter 12: Data processing and census outputs](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-12-data-processing-and-census-outputs)
+- [Chapter 13: Digital census archiving](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-13-digital-census-archiving)
+- [Chapter 14: Checklist for planning a digital Population and Housing Census in Africa](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-14)
 
