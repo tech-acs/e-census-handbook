@@ -5,7 +5,7 @@ Sidebar_position: 6
 [back to Handbook Chapter 7](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-07-logistics-financial-management-and-procurement)
 
 ## Logistics
-[back to Handbook section]
+[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-07/7.1%20Census%20Logistics)
 ### Kenya
 > **Transportation**
 >
