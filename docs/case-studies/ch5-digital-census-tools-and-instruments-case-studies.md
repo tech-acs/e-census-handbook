@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Chapter 05: Digital Census Tools and Instruments - Case Studies
-[back to Handbook Chapter 5]([/docs/category/chapter-02-planning-a-digital-census](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-05-digital-census-tools-and-instruments))
+[back to Handbook Chapter 5]([/docs/category/chapter-02-planning-a-digital-census](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-05-digital-census-tools-and-instruments)
 
 ## Tools development process. 
 ### Kenya
@@ -62,5 +62,5 @@ The CAPI manual was uploaded into the mobile devices for easy access. An in-app 
 >- Hospital in-patients and prisons/police cells questionnaire.
 >There also existed a “hybrid” questionnaire (which was a modification of the main questionnaire and only covered questions on the individual characteristics (p series) of the main questionnaire except questions on relationship, and line number of the mother).
 
-[back to Handbook Chapter 5]([/docs/category/chapter-02-planning-a-digital-census](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-05-digital-census-tools-and-instruments))
+[back to Handbook Chapter 5]([/docs/category/chapter-02-planning-a-digital-census](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-05-digital-census-tools-and-instruments)
 
