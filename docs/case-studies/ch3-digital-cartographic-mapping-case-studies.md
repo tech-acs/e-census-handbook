@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Chapter 03: Digital Cartographic Mapping - Case Studies
 
 [back to Handbook Chapter 3](/docs/category/chapter-03-digital-cartographic-mapping)
