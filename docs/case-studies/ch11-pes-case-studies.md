@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 # Chapter 11: Post-enumeration survey - case studies
-[back to Handbook Chapter 11](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-11-post-enumeration-survey)
+[back to Handbook Chapter 11](/docs/category/chapter-11-post-enumeration-survey)
 
 ### Rwanda
 <p> In Rwanda, the post-enumeration survey (PES) was carried out one month after the census enumeration. A sample of 180 enumeration areas (EAs) were selected for the PES stratified by district, sector and urban/rural. Each district had 6 EAs included in the sample. This corresponds to a sampling fraction of 0.74%. A short questionnaire was developed with two sections, one about demographic characteristics of household members and another about household members’ addresses (non-movers, out-movers and in-movers) with reference to Census night.</p>
@@ -43,4 +43,4 @@ sidebar_position: 10
 <p>Following completion of the matching, the matched and unmatched records were analysed to estimate the true population size of Rwanda and coverage rates using a statistical technique called dual system estimation. Furthermore, analysis of the matched records helped to estimate content errors of the census records.
 Further details on the methodology used and the PES findings are available in the [Thematic Report: Post Enumeration Survey (https://www.statistics.gov.rw/publication/thematic-report-post-enumeration-survey) which has been published on the NISR website. </p>
 
-[back to Handbook Chapter 11](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-11-post-enumeration-survey)
+[back to Handbook Chapter 11](/docs/category/chapter-11-post-enumeration-survey)

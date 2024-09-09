@@ -3,10 +3,10 @@ sidebar_position: 9
 ---
 
 # Chapter 10: Enumeration - Case Studies
-[back to Handbook Chapter 10](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-10-enumeration)
+[back to Handbook Chapter 10](/docs/category/chapter-10-enumeration)
 
 ## Pre-enumeration listing of households
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-10/10.1.%20Pre-enumeration%20listing%20of%20households)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-10/10.1.%20Pre-enumeration%20listing%20of%20households)
 
 ### Kenya
 >Pre-enumeration listing of households involved visiting, identifying, and listing all the households within the EA. It was undertaken for two days on 22nd and 23rd August 2019 immediately after concluding EA identification. In the households, enumerators informed the respondents that the listing would be followed by actual census enumeration, starting on the night of the 24th /25th August 2019. Households that were missed out during pre-enumeration household listing were covered, concurrently with the actual enumeration. The actual implementation involved using an uploaded pre-enumeration household listing questionnaire in the CAPI, the enumerator captured the following variables: GPS Coordinates of the main structure of the respective household; Structure number; Household number; Name of household head; Total number of usual members in the household (de jure). 
@@ -16,13 +16,13 @@ sidebar_position: 9
 >The enumerators got the opportunity to know and create rapport with the village elders and potential respondents. This also helped them to identify dignitaries, VIPs and any institutions or non-conventional households within the EA. It is during this period that the special area enumerators assigned to cover non-conventional households’ such as travelers, vagrants/outdoor sleepers, hotels, army camps/barracks, GSU camps, prisons, KWS camps, remand homes, police cells, hospitals, children’s homes, convents, and monasteries identified the location of the areas assigned.
 
 ## EA Identification
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-10/10.2.%20EA%20Identification)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-10/10.2.%20EA%20Identification)
 
 ### Kenya
 >An enumerator was assigned an EA and was required to be accompanied by a village elder. With the guidance of the assistant chiefs and the village elders, the enumerators used the EA maps to identify their enumeration areas. Both hard and soft copy digital EA maps were produced for census enumeration purposes.  Two soft copy pdf maps, one for the sub-location and the other for the EA were uploaded into the tablets for rural areas only. For urban areas such as Nairobi, Mombasa and Kisumu cities, hard copy maps were used because soft copy maps were too huge for uploading and lacked clarity. Thus, both soft and hard copy maps of an EA were used for the identification of the EAs.
 
 ## Data Collection and Transmission
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-10/10.3.%20Data%20collection%20and%20transmission)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-10/10.3.%20Data%20collection%20and%20transmission)
 
 ### Kenya
 
@@ -39,7 +39,7 @@ sidebar_position: 9
 >Household registrations increased significantly in the days preceding the original close of registration which coincided with the first week of enumeration, Stats SA official’s quote on the advantages of CAWI. “It appears that once households realized how quick and easy it is to complete the online Census form, word got around prompting the spike in registrations. There have been numerous requests to the call Centre for us to reopen registration. The online form can be completed on a computer or smartphone and is data free to the user. Stats SA says the form is simple to complete and will take about ten to 45 minutes, depending on the size of the household.”
 
 ## Data quality assurance
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-10/10.4.%20Data%20quality%20assurance)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-10/10.4.%20Data%20quality%20assurance)
 
 ### Kenya
 
@@ -54,4 +54,4 @@ sidebar_position: 9
 >After enumeration, the monitors prepared reports which were presented to the KNBS management.
 Additionally, as part of quality assurance, supervisor module was included in the CAPI application in which the supervisors were able to select a few households randomly, conduct re-interview and generate a report. Any variations were addressed by the enumerators in discussion with the supervisors. A team of coordinators drawn from the various census committees were also deployed to undertake monitoring and observations of the enumeration process.
 
-[back to Handbook Chapter 10](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-10-enumeration)
+[back to Handbook Chapter 10](/docs/category/chapter-10-enumeration)

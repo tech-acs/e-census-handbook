@@ -2,10 +2,10 @@
 sidebar_position: 7
 ---
 # Chapter 08: Census Communications - Publicity, Advocacy and Dissemination - Case Studies
-[back to Handbook chapter 8](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-08-census-communication--publicity-advocacy-and-dissemination)
+[back to Handbook chapter 8](/docs/category/chapter-08-census-communication--publicity-advocacy-and-dissemination)
 
 ## Publicity and Advocacy
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-08/8.2.%20Publicity%20and%20advocacy)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-08/8.2.%20Publicity%20and%20advocacy)
 ### Sierra Leone
 >Several stakeholders were involved to build public trust in every step of the way via: Engaged CSOs for Mid-Term Census (National Elections Watch(NEW), Institute for Governance Reforms(IGR), Native Consortium, Accountability Sierra Leone, Heal Sierra Leone, Health for All Coalition etc; engaged Parliamentary Oversight Committee on Population to help in publicity, Members of Publicity Committee  also did media engagements on behalf of NSOs, All Political Parties Association of Sierra Leone (APPA) also joined them in Publicity, Nation Wide Stakeholders Engagement via town hall meetings in all districts of Sierra Leone. All Critical Voices (CSOs, Press, Political Parties) etc. were given an opportunity to monitor both the census and cartographic mapping.  hose engaged included district council chairperson’s/mayors, MDAs, Youth Groups, Women's Group, Paramount Chiefs etc.
 >
@@ -48,7 +48,7 @@ sidebar_position: 7
 >**World Wide Web:** A web portal was also procured and developed by the publicity firm. A generic email signature, with the Census theme and slogan, was developed and used in all KNBS emails.
 
 ## Dissemination
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-08/8.3.%20Dissemination)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-08/8.3.%20Dissemination)
 ### Malawi
 >Malawi developed a monitoring and evaluation and crisis recovery plans for 2018 Census. Dissemination plan was proposed and developed by the NSO Publicity team that set-out specific objectives  and expected outputs; Brainstormed on theoretical framework and strategies; Compiled/documented the proposed approaches and activities; Planned the resources (Communication channels, budget, human resources, etc.); Developed timelines for realistic completion of the tasks/activities; Devised a crisis recovery plan - performed a risk analysis and identified possible “plan Bs”; and Monitoring and evaluation plan.
 >
@@ -91,7 +91,7 @@ Malawi was faced with a challenge of including unplanned costs to cover DSA and 
 ### Eswatini 
 >The first Census in Swaziland was conducted in 1956 and since then, following the United Nations recommendations, the Government has kept up to the 10 years schedule. The last census to be conducted was in 2017 census. The census preliminary report was published within four months (September 2017) after enumeration, the thematic reports were done after 30 months (December 2019) after enumeration and the population projections was done in August 2020 (more than 3 years). These reports were printed and availed in soft copy on USB flash disks, and on the Central Statistics Office and Government website. Each report was disseminated as soon as they were published, through stakeholder workshops and electronically for individual user requests. 
 
-[back to Handbook chapter 8](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-08-census-communication--publicity-advocacy-and-dissemination)
+[back to Handbook chapter 8](/docs/category/chapter-08-census-communication--publicity-advocacy-and-dissemination)
 
 
 
