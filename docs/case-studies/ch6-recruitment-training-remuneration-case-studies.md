@@ -3,10 +3,10 @@ sidebar_position: 5
 ---
 
 # Chapter 06: Recruitment, Training and Remuneration - Case Studies
-[back to Handbook Chapter 6](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-06-recruitment-training-and-renumeration)
+[back to Handbook Chapter 6](/docs/category/chapter-06-recruitment-training-and-renumeration)
 
 ## Recruitment
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-06/6.1%20Recruitment)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-06/6.1%20Recruitment)
 ### Namibia
 >Namibia used an e-recruitment system during implementation of pilot and main census enumeration. The NSO recruited enumerators, team supervisors and IT field technicians as per the planned field structure. The recruitment for the census pilot was mainly at constituency level and the most preferred people were those who live in the selected EAs and all the temporary census pilot positions were advertised externally i.e. on the NSA website, the Ministry of Labour, Industrial Relations and Employment Creation’s website, in the local newspapers, on the Radio and on the noticeboards of the following places:  NSA Regional office, Regional council office, the Clinics, Schools, Police stations, Malls or Shopping centers. Any persons interested in applying for the various positions was encouraged to apply online via the Ministry of Labour, Industrial Relations, and Employment Creation’s website.
 >
@@ -28,7 +28,7 @@ sidebar_position: 5
 >The recruitment procedures adopted for 2021 MTPHC followed a similar pattern of the past censuses in Sierra Leone. The recruitment aimed to achieve a ratio of enumerators to content supervisors at five and for ICT supervisors at 3,375.  Job advertisements were put out over the media for the various categories of field staff needed for the cartography mapping, pilot census and the main census enumeration. Ability to handle an electronic instrument (phone, iPad, laptop, desktop etc.) was an advantage in the recruitment process for the Mid Term Census cartography and census. Shortlisted candidates were interviewed, the successful candidates went through training and examinations to guide the selection of field staff. Extra persons were recruited to serve as a reserve in case of illness, bad performance or abandonment of positions. Contracts and picture IDs were provided to each successful participant at the end of training to aid field staff identification.
 
 ## Training
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-06/6.2.%20Training#621-introduction)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-06/6.2.%20Training#621-introduction)
 
 The COVID-19 pandemic had a significant effect on census operations especially training and field work for countries that conducted the census in the same period. National statistical offices and census agencies collaborated with the relevant health authorities to enhance safety protocols to mitigate the spread of COVID-19. The changes introduced included the fumigation of training facilities, the screening of participants, adherence to the recommended seating arrangement of two metres spacing between participants at training sessions, and body hygiene measures (handwashing and sanitizing). Because of the new activities to ensure compliance with COVID-19 guidelines, the training took longer and required more trainers, so the cost increased. 
 
@@ -50,7 +50,7 @@ Some countries trained their field staff purely online. Others had a hybrid trai
 >Training of enumerators was conducted on a non-residential basis in schools and churches for most of the regions except arid and semi-arid areas in which they were residential. In the non-residential training venues, payments were made to cater for meals and stationery. Training of trainers and supervisors (ICT and Content supervisors) were non-residential. Training of Trainers was held from 15th to 22nd July, 2019, training of ICT supervisors was done from 25th to 1st August, 2019 while training of content supervisors and enumerators were conducted from 4th to 11th August and 14th to 20th August, 2019 respectively.
 
 ## Remuneration
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-06/6.3.%20Remuneration#631-introduction)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-06/6.3.%20Remuneration#631-introduction)
 
 ### Namibia
 >All payments for the census pilot were handled by the National Statistics Agency’s finance department with the advice from HR and field operations division. All temporally staff who were recruited under the census pilot were paid a daily wage rate, daily field allowance, daily training allowance, transport allowance for all field staff working in urban EAs as well as airtime allowance. All team supervisors who were collecting vehicles away from their duty stations were paid transport allowance.
@@ -60,4 +60,4 @@ Some countries trained their field staff purely online. Others had a hybrid trai
 ### Kenya
 >The census personnel were paid as per the approved 2019 KPHC rates. The rates were applied throughout the census period. The payments were made directly to personal bank accounts or mobile phone numbers. Statutory deductions were applicable. No cash payments were made except for the NGAOs during mapping and sensitization exercises. 
 
-[back to Handbook Chapter 6](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-06/introduction)
+[back to Handbook Chapter 6](/docs/category/chapter-06-recruitment-training-and-renumeration)

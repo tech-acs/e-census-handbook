@@ -1,6 +1,6 @@
 ---
 id: Chapter 02 Planning a Digital Census - Case Studies
-sidebar_postition: 1
+sidebar_position: 1
 ---
 
 [back to Handbook Chapter 2](/docs/category/chapter-02-planning-a-digital-census)

@@ -1,11 +1,11 @@
 ---
-Sidebar_position: 6
+sidebar_position: 6
 ---
 # Chapter 07: Logistics, Financial Management and Procurement – Case Studies
-[back to Handbook Chapter 7](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-07-logistics-financial-management-and-procurement)
+[back to Handbook Chapter 7](/docs/category/chapter-07-logistics-financial-management-and-procurement)
 
 ## Logistics
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-07/7.1%20Census%20Logistics)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-07/7.1%20Census%20Logistics)
 ### Kenya
 > **Transportation**
 >
@@ -27,7 +27,7 @@ Sidebar_position: 6
 >The census logistics team was composed of one census coordinator and four logistics officers. The logistics officers were allocated specific counties. Up to 40 logistics casuals were engaged prior to census enumeration and were engaged up to the period when the devices had been received at the KNBS HQs storage.  
 
 ## Financial Management
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-07/7.2.%20Financial%20Management)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-07/7.2.%20Financial%20Management)
 ### Kenya
 >
 >A sub-committee of the census TWC was established to undertake financial management for the censuses. The committee was also charged with the responsibility of mobilizing resources from various stakeholders and development partners to support implementation of various census activities and processes. The mobilized resources which were 99% from the government, were managed centrally. Regulations were developed which were shared with officers that were advanced some funds to manage the payments at County Levels. KNBS had a bank account dedicated to census at the headquarters, through which all funds’ transactions were made. At the sub national level (County) Census Bank Accounts were opened to manage payments at that level. All receipts were acknowledged through the official receipting system and payments were supported by fully authorized documentation. All funds allocated to the Counties were remitted to the County Accounts as AIE, on a regular basis. 
@@ -37,7 +37,7 @@ Sidebar_position: 6
 >After the census was completed, approved accounting documents were forwarded back to the Finance office at Real Towers in Nairobi and to the County Accountants’ offices. These accounting documents consisted of signed payment schedules, attendance registers and meeting minutes to account for sitting allowances paid to sub-county committee members while planning for recruitment, undertaking shortlisting, interviews, and approving the list of successful candidates and contacting them.
 
 ## Procurement
-[back to Handbook section](https://tech-acs.github.io/e-census-handbook/docs/experiences-lessons-2020/chapter-07/7.3.%20Procurement)
+[back to Handbook section](/docs/experiences-lessons-2020/chapter-07/7.3.%20Procurement)
 ### Kenya
 >A procurement sub-committee was appointed one year before the census enumeration to handle all procurement activities. The team developed procurement guidelines in conformity with the current country Public Procurement and Asset Disposal Act (PPADA, 2015) and the relevant regulations, which provided procurement and financial flow guidelines on various aspects of the 2019 KPHC procurement process.  
 >
@@ -51,5 +51,5 @@ Sidebar_position: 6
 >
 >Disposal of mobile devices required data removal which consumed valuable time because they could not be disposed with
 
-[back to Handbook Chapter 7](https://tech-acs.github.io/e-census-handbook/docs/category/chapter-07-logistics-financial-management-and-procurement)
+[back to Handbook Chapter 7](/docs/category/chapter-07-logistics-financial-management-and-procurement)
 
