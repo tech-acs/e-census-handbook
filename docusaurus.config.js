@@ -119,7 +119,7 @@ const config = {
               },
               {
                 label: 'Resources',
-                to: '/docs/resources/all-resources.md',
+                to: '/docs/resources/all-resources',
               },
             ],
           },
